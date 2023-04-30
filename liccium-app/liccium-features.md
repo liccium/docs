@@ -20,7 +20,7 @@ doc, docx, xls, xlsx, pptx, epub, mobi, ibooks,
 html, xhtml, odt, pdf, rtf, txt, xml, json, md
 
 Image
-gif, jpg, png, tif, bmp, psd, eps
+gif, jpg, png, tif, bmp, psd, eps, webp
 
 Audio
 aif, flac, mp3, opus, ogg, wav
