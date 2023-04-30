@@ -11,3 +11,5 @@ With Liccium, content creators can inseparably bind metadata, rights, licences, 
 Additionally, Liccium allows users to discover, identify, and verify the authenticity and integrity of digital media content, NFTs, metadata, rights, and licences.
 
 Liccium is not yet another minting and timestamping service; it’s a trust and search engine for verifiable metadata, rights, credentials, and attribution for digital media content.
+
+{% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list to receive occasional updates!" %}
