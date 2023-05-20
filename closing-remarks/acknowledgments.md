@@ -8,4 +8,6 @@ This whitepaper is intended to address a broader, non-technical audience. Unless
 
 In 2022 and 2023, Posth Werk BV received funding from the European Union's Horizon 2020 research and innovation programme (grant agreement No. 957228) for the technical specification and actual development of the MVP of the Liccium app. The [TruBlo.eu](https://trublo.eu) program also triggered and advised on a proper analysis and documentation of project drivers and product-to-market fit. I am very grateful for this support! The views in this whitepaper do not necessarily reflect those of the TruBlo consortium or the European Commission, and they are not liable for any use made of the information contained herein.
 
+Supported by the Institute for Internet Security I had the chance to work on key concepts of SSI, such as decentralised identifiers (DIDs) and verifiable credentials (VCs), which are a key component of the project.   &#x20;
+
 The author is also grateful for a small grant and valuable coaching from the [Media-Lab Bayern](https://www.media-lab.de/de/) in Munich in 2019.
