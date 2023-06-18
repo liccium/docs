@@ -26,4 +26,4 @@ The ISCC Foundation, a not-for-profit organisation, maintains the open reference
 
 In 2019, the ISCC was submitted to ISO by the German standards organisation, DIN. After two years of preliminary work, in 2021 the ISCC was approved as a full work item by the participating members of the ISO sub-committee TC 46/SC 9 in 2021.
 
-The ISCC is expected to be registered as a draft international standard (DIS) with the ISO stage code 40.00 in May 2023, the standard is scheduled to be published in early 2024.
+The ISCC is expected to be registered as a draft international standard (DIS) with the ISO stage code 40.00 in October 2023, the standard is scheduled to be published in early 2024.
