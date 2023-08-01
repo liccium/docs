@@ -10,7 +10,7 @@ Based on these steps, users can digitally sign their declarations to ensure trus
 
 ## **Generating ISCCs**
 
-Liccium allows to generate and manage decentralised, content identifiers.
+Liccium allows users to generate and manage content-derived identifiers from the following media types and formats:
 
 ```
 SUPPORTED MEDIA TYPES AND FORMATS
@@ -32,11 +32,11 @@ mp4, mkv, mov, ogv, rm, swf, webm, wmv
 
 ## **Binding metadata**
 
-Liccium allows to inseparably bind metadata, rights, licences, and other claims to the content.
+Liccium allows users to inseparably bind product metadata, links to rights and licences, and other claims to the content.
 
 ## Providing credentials
 
-Liccium allows the creation and receiving of verifiable credentials (VCs) and content certificates.
+Liccium allows the generation of verifiable credentials (VCs), inseparably connecting them to the declarations.
 
 ## Declaring content
 
