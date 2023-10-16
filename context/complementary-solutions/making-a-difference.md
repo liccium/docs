@@ -8,7 +8,3 @@ The Liccium app is implementing and improving novel and highly innovative techno
 * Instead of embedding digital signatures and claims into the digital media files, users can digitally sign a declaration transaction by means of a wallet software under their own control;
 * Instead of embedding metadata into the file itself or including watermarks and other information to the perceptual content, we suggest inseparably connecting external metadata to the content together with the declaration of ISCC codes;
 * Instead of relying on centralised services to verify content integrity or claims to content and metadata, users can rely on decentralised trust, generate the ISCC and reverse-lookup all data associated with the ISCC declaration.
-
-
-
-<figure><img src="../../.gitbook/assets/Liccium-web3.png" alt=""><figcaption></figcaption></figure>
