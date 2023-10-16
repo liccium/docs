@@ -1,12 +1,12 @@
 # Misappropriation or unauthorised use
 
-In other cases, where digital media content is shared and used online without access to proper rights declarations and attribution, this often leads to abuse or misappropriation of copyrights harming the legitimate creators and rightsholders.
+In many cases when digital media content is shared and used online without access to proper rights declarations and attribution this often leads to abuse or misappropriation of copyrights harming the legitimate creators and rightsholders.
 
 ## Piracy
 
 Pirate websites offer all kinds of media content for illegal download, which causes damage amounting to several billion Euros annually as rightsholders do not receive any compensation for the illegal exploitation of their works.
 
-To combat piracy, anti-piracy services adopt a centralised model wherein they download content from illegal platforms and use their own proprietary fingerprinting software to match the pirated files with the original files provided by the creators and rightsholders. However, these types of models are often criticised for their lack of effectiveness, as they force publishers to choose only one provider and to incur significant expenses and internal efforts in making the actual media content available to the anti-piracy platforms.
+To combat piracy, anti-piracy services adopt a centralised model wherein they download content from illegal platforms and use their own proprietary fingerprinting software to match the pirated files with the original files (or product metadata) provided by the creators and rightsholders. However, these types of models are often criticised for their lack of effectiveness, as they force publishers to choose only one provider and to incur significant expenses and internal efforts in making the actual media content available to the anti-piracy platforms.
 
 ## Book digests
 
