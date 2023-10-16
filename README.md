@@ -12,6 +12,10 @@ Liccium helps creators and rightsholders to generate, manage, and declare conten
 
 All declarations are automatically accessible via decentralised content registries, which allow users or machines to discover, identify, and verify the authenticity and integrity of digital media content and resolve rights, licenses, and other product metadata.
 
+### Creator attribution
+
+Digital signatures and verifiable creator credentials increase trust in assertions, claims and the authenticity of the original content and help to sufficiently identify creators and rightsholders.
+
 ### International Standard Content Code (ISCC)
 
 Liccium is based on the ISCC, a content-derived identifier, lightweight fingerprinting, and open identification system for digital media content of all media types (image, video,\
@@ -25,8 +29,6 @@ Using a novel standard for decentralised content identification (ISCC), these cl
 
 Thus, ISCC remains dependable, retaining its full range of capabilities even in scenarios where content is altered or manipulated, or when watermarks, steganographic data, or metadata is removed from the media asset.
 
-### Creator attribution
 
-Digital signatures and verifiable creator credentials increase trust in assertions, claims and the authenticity of the original content and help to sufficiently identify creators and rightsholders.
 
 {% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list to receive occasional updates!" %}
