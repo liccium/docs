@@ -9,6 +9,7 @@ The Liccium app is implementing and improving novel and highly innovative techno
 * Instead of embedding metadata into the file itself or including watermarks and other information to the perceptual content, we suggest inseparably connecting external metadata to the content together with the declaration of ISCC codes;
 * Instead of metadata being bound to the token alone, ISCC allows to bind the metadata to the ID and fingerprint of the content. Thereby, anyone with access to the media file may discover work and token metadata, rights, and credentials;
 * Instead of relying on centralised services to verify content integrity or claims to content and metadata, users can rely on decentralised trust, generate the ISCC and reverse-lookup all data associated with the ISCC declaration.
-*
 
-    <figure><img src="../../.gitbook/assets/Liccium-web3.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Liccium-web3.png" alt=""><figcaption></figcaption></figure>
