@@ -8,21 +8,22 @@ Introducing Liccium Trust Engine – the next generation rights and media asset 
 
 With Liccium, content creators and rightsholders can digitally sign their original creative works and make publicly verifiable declarations of their original content.
 
-Liccium helps creators and rightsholders to generate, manage, and declare content-derived identifiers for digital media content.&#x20;
-
-They can inseparably bind verifiable claims – e.g. rights, license, and other product metadata – to the fingerprint of their digital content.&#x20;
+Liccium helps creators and rightsholders to generate, manage, and declare content-derived identifiers (ISCC codes) for digital media content. Using ISCC, they can inseparably bind verifiable claims – e.g. rights, license, and other product metadata – to the fingerprint of their digital content.&#x20;
 
 All declarations are automatically accessible via decentralised content registries, which allow users or machines to discover, identify, and verify the authenticity and integrity of digital media content and resolve rights, licenses, and other product metadata.
 
 ### International Standard Content Code (ISCC)
 
-Using a novel standard for decentralised content identification (ISCC), these claims inseparably stick with the content without relying on watermarks or embedded metadata.&#x20;
+Liccium is based on the ISCC, a content-derived identifier, lightweight fingerprinting, and open identification system for digital media content of all media types (image, video,\
+text, audio),  using cryptographic and similarity- preserving hashes to create a unique ID for each digital asset.&#x20;
 
-ISCC stands as a forthcoming ISO identifier standard and lightweight fingerprinting system designed for all media types and file formats, using cryptographic and similarity- preserving hashes to create a unique ID for each digital asset.
+The ISCC is on its way to global recognition – after 5 years of work, in Q1/2024, ISCC is scheduled to become a universally approved ISO standard for decentralised digital content identification.&#x20;
 
-This empowers any user, system, or machine with access to the digital asset to independently generate an identical or similar ISCC code, enabling the identification, comparison, and matching of digital content while assessing its integrity and authenticity.&#x20;
+[Current status of the ISCC: Draft International Standard ISO/DIS 24138](https://www.iso.org/standard/77899.html)
 
-ISCC remains dependable, retaining its full range of capabilities even in scenarios where content is altered or manipulated, or when watermarks, steganographic data, or metadata is removed from the media asset.
+Using a novel standard for decentralised content identification (ISCC), these claims inseparably stick with the content without relying on watermarks or embedded metadata. This empowers any user, system, or machine with access to the digital asset to independently generate an identical or similar ISCC code, enabling the identification, comparison, and matching of digital content while assessing its integrity and authenticity.&#x20;
+
+Thus, ISCC remains dependable, retaining its full range of capabilities even in scenarios where content is altered or manipulated, or when watermarks, steganographic data, or metadata is removed from the media asset.
 
 ### Creator attribution
 
