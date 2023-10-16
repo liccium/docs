@@ -1,5 +1,11 @@
 # Regulation
 
+Proposal for a Regulation of the European Parliament and the Council Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and the Amending Certain Union Legislative Acts, COM/2021/206 final, 52021PC0206 \
+[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206)
+
+Artificial Intelligence Act – Amendments adopted by the European Parliament on 14 June 2023 on the proposal for a regulation of the European Parliament and of the Council on laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts (COM(2021)0206 – C9-0146/2021 – 2021/0106(COD))1, P9\_TA(2023)0236 \
+[https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236\_EN.pdf](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236\_EN.pdf)
+
 Report: Impact of the General Data Protection Regulation and the national personal data protection legislation on the copyright infrastructure. Data protection legislation on the copyright infrastructure. Data protection & copyright infrastructure, Ministry of Education and Culture, Publications of the Ministry of Education and Culture, Finland 2022:38, 18.10.2022),\
 [http://urn.fi/URN:ISBN:978-952-263-781-9](http://urn.fi/URN:ISBN:978-952-263-781-9)
 
