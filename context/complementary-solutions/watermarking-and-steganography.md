@@ -4,6 +4,8 @@
 
 _In/visible messages are embedded in the non/perceptible parts of the media file_
 
-One way to efficiently include information in a media file is by embedding digital signatures, certificates, or other data as visible or hidden messages using watermarking and steganography. These technologies have been in existence for centuries and are reliable for all media types, as they secure the file and its embedded metadata from tampering.
+Efficiently incorporating information into media files can be achieved through techniques like watermarking and steganography, where digital signatures, certificates, or other data can be embedded either visibly or covertly. These well-established technologies, with centuries of history, offer a dependable means to safeguard both the file and its embedded metadata against tampering.
 
-However, a downside is that they create dependencies on often proprietary and costly technology. They also rely on the users having access to the same software used to embed the hidden message initially.
+In the context of discussions surrounding synthetic or AI-generated content, watermarking and steganographic methods have emerged as potential solutions to address the challenge of identifying AI-generated content and enhancing transparency in media markets.&#x20;
+
+However, there are drawbacks to consider. These techniques often rely on proprietary and costly technology, creating dependencies, and necessitating that users have access to the same software used for embedding hidden messages initially. Moreover, the embedded data can be susceptible to removal.
