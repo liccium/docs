@@ -2,7 +2,7 @@
 
 The Liccium app is designed as a browser-based application, which will allow users to sign in with their cryptographic wallet.
 
-Sign-up/sign-in with a cryptographic wallet, also known as “Sign-in with Ethereum,” is a way for users to authenticate themselves to a website or application using a digital wallet and their private keys, rather than using a traditional username and password.
+Sign-up/sign-in with a cryptographic wallet is a way for users to authenticate themselves to a website or application using a digital wallet and their private keys, rather than using a traditional user name and password.
 
 This improves privacy and data protection in several ways. First, as the user’s private key is used to authenticate their identity, the website or application needs no personal information such as a username or e-mail address on their servers. This reduces the risk of data breaches and prevents leakage of personal information.
 
