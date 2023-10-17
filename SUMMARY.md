@@ -34,7 +34,7 @@
 ## Verifiable credentials
 
 * [Creator Credentials (VCs)](verifiable-credentials/vcs/README.md)
-  * [Publicly accessible and verifiable credentials](verifiable-credentials/vcs/publicly-accessible-and-verifiable-credentials.md)
+  * [Publicly accessible VCs](verifiable-credentials/creator-credentials-vcs/publicly-accessible-vcs.md)
   * [Issuers, holders, and verifiers](verifiable-credentials/vcs/issuers-holders-and-verifiers.md)
   * [Self-issued credentials](verifiable-credentials/creator-credentials-vcs/self-issued-credentials.md)
   * [Third party endorsements](verifiable-credentials/creator-credentials-vcs/third-party-endorsements.md)
@@ -42,7 +42,6 @@
 
 ***
 
-* [Liccium VCs](liccium-vcs.md)
 * [Use cases for VCs in the media sectors](use-cases-for-vcs-in-the-media-sectors.md)
 
 ## Decentralised identifiers
