@@ -36,6 +36,7 @@
 * [Creator Credentials (VCs)](verifiable-credentials/vcs/README.md)
   * [Publicly accessible and verifiable credentials](verifiable-credentials/vcs/publicly-accessible-and-verifiable-credentials.md)
   * [Issuers, holders, and verifiers](verifiable-credentials/vcs/issuers-holders-and-verifiers.md)
+  * [Self-issued credentials](verifiable-credentials/creator-credentials-vcs/self-issued-credentials.md)
   * [Liccium VCs](verifiable-credentials/vcs/liccium-vcs.md)
   * [The credential subject](verifiable-credentials/vcs/the-credential-subject.md)
 
