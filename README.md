@@ -16,9 +16,9 @@ All declarations are automatically accessible via decentralised content registri
 
 Digital signatures and verifiable creator credentials increase trust in assertions, claims and the authenticity of the original content and help to sufficiently identify creators and rightsholders.
 
-### International Standard Content Code (ISCC)
+### ISCC
 
-Liccium is based on the ISCC, a content-derived identifier, lightweight fingerprinting, and open identification system for digital media content of all media types (image, video,\
+Liccium is based on the International Standard Content Code (ISCC), a content-derived identifier, lightweight fingerprinting, and open identification system for digital media content of all media types (image, video,\
 text, audio),  using cryptographic and similarity- preserving hashes to create a unique ID for each digital asset.&#x20;
 
 The ISCC is on its way to global recognition – after 5 years of work, in Q1/2024, ISCC is scheduled to become a universally approved ISO standard for decentralised digital content identification.&#x20;
