@@ -33,11 +33,11 @@
 
 ## Verifiable credentials
 
-* [Creator Credentials (VCs)](verifiable-credentials/creator-credentials-vcs/README.md)
-  * [Publicly accessible and verifiable credentials](verifiable-credentials/creator-credentials-vcs/publicly-accessible-and-verifiable-credentials.md)
-  * [Issuers, holders, and verifiers](verifiable-credentials/creator-credentials-vcs/issuers-holders-and-verifiers.md)
-  * [Liccium VCs](verifiable-credentials/creator-credentials-vcs/liccium-vcs.md)
-  * [The credential subject](verifiable-credentials/creator-credentials-vcs/the-credential-subject.md)
+* [Creator Credentials (VCs)](verifiable-credentials/vcs/README.md)
+  * [Publicly accessible and verifiable credentials](verifiable-credentials/vcs/publicly-accessible-and-verifiable-credentials.md)
+  * [Issuers, holders, and verifiers](verifiable-credentials/vcs/issuers-holders-and-verifiers.md)
+  * [Liccium VCs](verifiable-credentials/vcs/liccium-vcs.md)
+  * [The credential subject](verifiable-credentials/vcs/the-credential-subject.md)
 
 ***
 
