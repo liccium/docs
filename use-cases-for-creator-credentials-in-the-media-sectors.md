@@ -1,8 +1,8 @@
-# Use cases for VCs in the media sectors
+# Use cases for creator credentials in the media sectors
 
 <figure><img src=".gitbook/assets/Use cases VCs media (1).png" alt=""><figcaption><p>Use cases for VCs in the media sectors</p></figcaption></figure>
 
-Verifiable credentials can increase trust and transparency in the cultural and creative industries.
+Verifiable creator credentials can increase trust and transparency in the cultural and creative industries.
 
 Here are some examples of how VCs could be used:
 

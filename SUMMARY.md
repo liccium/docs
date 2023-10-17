@@ -42,7 +42,7 @@
 
 ***
 
-* [Use cases for VCs in the media sectors](use-cases-for-vcs-in-the-media-sectors.md)
+* [Use cases for creator credentials in the media sectors](use-cases-for-creator-credentials-in-the-media-sectors.md)
 
 ## Decentralised identifiers
 
