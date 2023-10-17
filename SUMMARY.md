@@ -38,11 +38,11 @@
   * [Issuers, holders, and verifiers](verifiable-credentials/vcs/issuers-holders-and-verifiers.md)
   * [Self-issued credentials](verifiable-credentials/creator-credentials-vcs/self-issued-credentials.md)
   * [Third party endorsements](verifiable-credentials/creator-credentials-vcs/third-party-endorsements.md)
-  * [Liccium VCs](verifiable-credentials/vcs/liccium-vcs.md)
   * [The credential subject](verifiable-credentials/vcs/the-credential-subject.md)
 
 ***
 
+* [Liccium VCs](liccium-vcs.md)
 * [Use cases for VCs in the media sectors](use-cases-for-vcs-in-the-media-sectors.md)
 
 ## Decentralised identifiers

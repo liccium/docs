@@ -2,10 +2,6 @@
 
 <figure><img src="../../.gitbook/assets/credential subject.png" alt=""><figcaption></figcaption></figure>
 
-In addition to social and domain verification, which can be considered as methods of self-verification, the Liccium app will also allow users and declarants to receive VCs from 3rd-party organisations acting as VC issuers or certification authorities.
-
-These institutional verification methods can provide users with VCs for various credential types and subjects. The trustworthiness of these credentials is based on the reputation of the issuing institution, qualified and advanced certificates, and the content of the credential in relation to the declaration. Institutional verification can help users and declarers to establish further trust in their content declarations and claims.
-
 Liccium will support issuance and verification, upload, and export of verifiable credentials of various types and subjects that can be used in different scenarios, adhering to the “open world assumption” of the Verifiable Credentials Data Model v1.1. This approach allows for the issuance and use of VCs to be flexible and adaptable in various contexts.
 
 <pre data-overflow="wrap"><code>EXTENSIBILITY
