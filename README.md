@@ -31,4 +31,4 @@ Thus, ISCC remains dependable, retaining its full range of capabilities even in 
 
 
 
-{% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list to receive occasional updates!" %}
+{% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list!" %}
