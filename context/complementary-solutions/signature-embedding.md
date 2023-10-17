@@ -1,6 +1,10 @@
 # Signature embedding
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/Signature-Embedding.png" alt=""><figcaption><p>Signature embedding</p></figcaption></figure>
+
+</div>
 
 _Digital certificates and verifiable claims are embedded into the asset metadata – c2pa.org_
 
