@@ -1,6 +1,6 @@
 # Media sectors
 
-Liccium aims to become a long-term trusted partner for secure digital distribution, copyright, and licensing in the web3 and decentralised media environments, SSI (DIDs and verifiable credentials), and the certification of digital media content. It can be used by a great variety of different user groups and creative communities from different media sectors.
+Liccium aims to become a long-term trusted partner for secure digital distribution, copyright, and licensing in the decentralised web, DIDs and verifiable credentials, and the certification of digital media content. The Liccium app can be used by a great variety of different user groups and creative communities from different media sectors.
 
 ## **IMAGES**
 
