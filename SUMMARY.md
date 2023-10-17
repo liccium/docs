@@ -67,18 +67,15 @@
 ## Liccium app
 
 * [Media sectors](liccium-app/media-sectors.md)
-* [Liccium Features](liccium-app/liccium-features.md)
+* [Features](liccium-app/features.md)
+* [Liccium browser plugin](liccium-app/liccium-browser-plugin.md)
+* [Liccium plugins](liccium-app/liccium-plugins.md)
+* [Liccium VM](liccium-app/liccium-vm.md)
+* [Creator services and plans](liccium-app/creator-services-and-plans.md)
 * [Future work](liccium-app/future-work/README.md)
   * [Liccium search and verification engine](liccium-app/future-work/liccium-search-and-verification-engine.md)
   * [Liccium API](liccium-app/future-work/liccium-api.md)
-  * [Liccium plugins](liccium-app/future-work/liccium-plugins.md)
-  * [Liccium browser plugin](liccium-app/future-work/liccium-browser-plugin.md)
-  * [Liccium VM](liccium-app/future-work/liccium-vm.md)
   * [Decentralised web nodes (DWNs)](liccium-app/future-work/decentralised-web-nodes-dwns.md)
-  * [VC portability](liccium-app/future-work/vc-portability.md)
-  * [Additional features](liccium-app/future-work/additional-features.md)
-* [Creator services and plans](liccium-app/creator-services-and-plans.md)
-* [Professional services and plans](liccium-app/professional-services-and-plans.md)
 
 ## FAQ
 
