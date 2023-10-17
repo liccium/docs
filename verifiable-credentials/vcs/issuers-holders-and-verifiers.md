@@ -4,7 +4,9 @@
 
 In the context of the cultural and creative industries, any organisation or institution could potentially be an issuer of verifiable credentials and act as a trust service for attribution or assertions. &#x20;
 
-> The [CreatorCredentials.cc](https://trustchain.ngi.eu/creatorcredentials-cc/) project will build a software application that can be used by media organisations to issue verifiable credentials to creators and other rightsholders, establishing a new role for public entities and organisations in digital media publishing to act as credential issuers and trust services.
+{% hint style="info" %}
+The [CreatorCredentials.cc](https://trustchain.ngi.eu/creatorcredentials-cc/) project will build a software application that can be used by media organisations to issue verifiable credentials to creators and other rightsholders, establishing a new role for public entities and organisations in digital media publishing to act as credential issuers and trust services.
+{% endhint %}
 
 ### Credential issuers
 
