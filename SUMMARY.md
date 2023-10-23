@@ -66,6 +66,7 @@
 
 ## Liccium app
 
+* [About the Liccium app](liccium-app/about-the-liccium-app.md)
 * [Media sectors](liccium-app/media-sectors.md)
 * [Features](liccium-app/features.md)
 * [Liccium browser plugin](liccium-app/liccium-browser-plugin.md)
