@@ -16,8 +16,8 @@ Sebastian Posth, Posth Werk BV
 ## Status of this document
 
 This document is open for feedback and discussion.\
-Version: v0.5\
-Date: 2023-04-15
+Version: v0.6\
+Date: 2023-10-23
 
 ## Licence
 
