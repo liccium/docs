@@ -78,6 +78,7 @@
 
 ## References
 
+* [Liccium](references/liccium.md)
 * [ISCC](references/iscc.md)
 * [Standards](references/standards.md)
 * [Protocols and specifications](references/protocols-and-specifications.md)
