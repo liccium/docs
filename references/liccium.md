@@ -1,8 +1,7 @@
 # Liccium
 
 Liccium app (production)\
-[https://liccium.app](https://liccium.app)\
-**NOT YET RELEASED TO THE PUBLIC**
+[https://liccium.app](https://liccium.app)
 
 Liccium app (staging)\
 [https://liccium.dev](https://liccium.dev)
