@@ -13,9 +13,9 @@ Creator credentials represent a revolutionary advancement in the realm of digita
 * VCs are **revocable**, which means that they can be revoked or cancelled in case of expiry. This is important for maintaining the integrity of the credential system and ensuring that only valid and accurate information is being shared. The revocation can be initiated by the issuer of the credential or by the individual who owns the credential. It can be enforced by the systems that recognise and accept the credential.
 
 {% hint style="info" %}
-In 2023, the European Union funded a project called [CreatorCredentials.cc](http://127.0.0.1:5000/s/Q24Y4feVWHWWf6v1gexc/) as one selected project of the NGI's Trustchain consortium under grant agreement Nr. 101093274.&#x20;
+In 2023, the European Union funded a project called 'Creator Credentials' as one selected project of the NGI's Trustchain consortium under grant agreement Nr. 101093274.&#x20;
 
-CreatorCredentials.cc will develop a user-centric digital identity management framework specifically designed for the cultural and creative communities. This includes a software application that can be used by media organisations to issue verifiable credentials to creators and other rightsholders. Creator Credentials will increase the trustworthiness of declarations and claims to digital media content online.
+The Creator Credentials project will develop a user-centric digital identity management framework specifically designed for the cultural and creative communities. This includes a software application that can be used by media organisations to issue verifiable credentials to creators and other rightsholders. Creator Credentials will increase the trustworthiness of declarations and claims to digital media content online.
 
 [https://trustchain.ngi.eu/creatorcredentials](https://trustchain.ngi.eu/creatorcredentials)
 {% endhint %}
