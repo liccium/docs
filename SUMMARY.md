@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Liccium](README.md)
+* [Liccium Whitepaper](README.md)
 
 ## Context
 

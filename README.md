@@ -1,4 +1,8 @@
-# About Liccium
+---
+description: This is the Liccium whitepaper
+---
+
+# Liccium Whitepaper
 
 <figure><img src=".gitbook/assets/Liccium-Trust-Engine.png" alt=""><figcaption><p>Liccium Trust Engine – Digitally sign your original creative works!</p></figcaption></figure>
 
