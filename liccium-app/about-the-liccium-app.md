@@ -10,4 +10,6 @@ Thanks to the grant, we could initiate the development of the Liccium app. While
 
 We are excited to announce that the MVP of the app is now ready for testing. We invite individual users to participate in the MVP and provide feedback on its features, requirements, and terms of service.
 
+{% hint style="info" %}
 For detailed information, please have a look at the documentation of the Liccium app: [https://docs.liccium.app](https://docs.liccium.app).
+{% endhint %}
