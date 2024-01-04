@@ -2,9 +2,9 @@
 
 The ISCC uses a Blake3 hash as a 256-bit MultiHash for the Instance-Code. Blake 3 is considered to be a very secure and fast hashing algorithm, which is used in a wide range of crypto applications and contexts, such as IPFS. It is designed to be very secure against collisions, preimage, and other types of attacks.
 
-Blake3 is considered to be collision-free up to a number of 264 possible hashes, being a very large number and resulting in an extremely low probability of hash collisions.
+Blake3 is considered to be collision-free up to a number of 2^64 possible hashes, being a very large number and resulting in an extremely low probability of hash collisions.
 
-264 is approximately 18.4 quintillion. One quintillion has 18 zeros: 1,000,000,000,000,000,000 in numerical form. To put this number in perspective, consider that the estimated number of grains of sand on all the beaches on Earth is around 7.5 quintillion.
+2^64 is approximately 18.4 quintillion. One quintillion has 18 zeros: 1,000,000,000,000,000,000 in numerical form. To put this number in perspective, consider that the estimated number of grains of sand on all the beaches on Earth is around 7.5 quintillion.
 
 A preimage attack, also known as an “inversion attack,” is a type of cryptographic attack that attempts to derive the input (or “preimage”) from a specific output when processed by a cryptographic hash function. Blake3 is very resistant to preimage attacks.
 
