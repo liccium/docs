@@ -70,11 +70,11 @@
 
 ## FAQ
 
+* [What is the difference between ISCC and ACR software?](faq/what-is-the-difference-between-iscc-and-acr-software.md)
+* [How secure is the ISCC against collisions or preimage attacks?](faq/how-secure-is-the-iscc-against-collisions-or-preimage-attacks.md)
 * [What is the difference between NFTs and ISCC declarations?](faq/what-is-the-difference-between-nfts-and-iscc-declarations.md)
 * [What is the difference between contract storage and event log storage on the EVM-based blockchains?](faq/what-is-the-difference-between-contract-storage-and-event-log-storage-on-the-evm-based-blockchains.md)
 * [Why are ISCC declarations so significantly cheaper than NFTs?](faq/why-are-iscc-declarations-so-significantly-cheaper-than-nfts.md)
-* [What is the difference between ISCC and ACR software?](faq/what-is-the-difference-between-iscc-and-acr-software.md)
-* [How secure is the ISCC against collisions or preimage attacks?](faq/how-secure-is-the-iscc-against-collisions-or-preimage-attacks.md)
 
 ## References
 
