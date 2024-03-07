@@ -25,10 +25,10 @@
 ## Declarations
 
 * [The International Standard Content Code (ISCC)](declarations/the-international-standard-content-code-iscc.md)
-* [Decentralised content registries](declarations/decentralised-content-registries/README.md)
-  * [Permissionless on-chain declarations](declarations/decentralised-content-registries/permissionless-on-chain-declarations.md)
-  * [ISCC-ID](declarations/decentralised-content-registries/iscc-id.md)
-  * [Digital Signatures](declarations/decentralised-content-registries/digital-signatures.md)
+* [Verifiable content registries](declarations/verifiable-content-registries/README.md)
+  * [Permissionless on-chain declarations](declarations/verifiable-content-registries/permissionless-on-chain-declarations.md)
+  * [ISCC-ID](declarations/verifiable-content-registries/iscc-id.md)
+  * [Digital Signatures](declarations/verifiable-content-registries/digital-signatures.md)
 * [Liccium – high level overview](declarations/liccium-high-level-overview.md)
 
 ## Verifiable credentials
