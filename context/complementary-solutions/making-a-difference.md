@@ -1,6 +1,6 @@
 # Making a difference
 
-For the last 15 years, Posth Werk BV has been a main contributor in developing new standards, protocols and products that significantly impact and revolutionise the digital media markets of the future.
+For the last 15 years, Liccium B.V. (former Posth Werk B.V.) has been a main contributor in developing new standards, protocols and products that significantly impact and revolutionise the digital media markets of the future.
 
 The Liccium app is implementing and improving novel and highly innovative technology, creating an application of a new kind that helps content creators and rightsholders to tackle the current challenges of digital media and trust.
 
