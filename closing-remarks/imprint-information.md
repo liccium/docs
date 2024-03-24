@@ -1,6 +1,6 @@
 # Imprint information
 
-Posth Werk BV\
+Liccium B.V.\
 Sebastian Posth
 
 Boerhaavelaan 99\
@@ -11,7 +11,7 @@ NL 23three4 EG Leiden
 
 ## Contributor
 
-Sebastian Posth, Posth Werk BV
+Sebastian Posth, Liccium B.V.
 
 ## Status of this document
 
