@@ -24,9 +24,9 @@ Utilising the Creator Credentials protocol, a framework for managing digital ide
 
 Liccium is based on the International Standard Content Code (ISCC), a content-derived identifier, lightweight fingerprinting, and open identification system for digital media content of all media types (image, video, text, audio),  using cryptographic and similarity- preserving hashes to create a unique ID for each digital asset.&#x20;
 
-The ISCC is on its way to global recognition – after 5 years of work, in Q1/2024, ISCC is scheduled to become a universally approved ISO standard for decentralised digital content identification.&#x20;
+After 5 years of work, ISCC was published as a globally approved ISO standard for digital content identification.&#x20;
 
-[Current status of the ISCC: Draft International Standard ISO/DIS 24138](https://www.iso.org/standard/77899.html)
+[ISO 24138:2024](https://www.iso.org/standard/77899.html)
 
 Using a novel standard for the decentralised identification of content (ISCC), this information is inextricably linked to the content. This allows any user, system or machine with access to the digital asset to independently generate an identical or similar ISCC code that enables the identification, comparison and reconciliation of digital content while assessing its integrity and authenticity.&#x20;
 
