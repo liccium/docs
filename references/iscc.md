@@ -2,6 +2,9 @@
 
 ## General links
 
+ISO 24138:2024 – International Standard Content Code\
+[https://www.iso.org/standard/77899.html](https://www.iso.org/standard/77899.html)
+
 ISCC generator demo,\
 [https://iscc.io/](https://iscc.io/)
 
