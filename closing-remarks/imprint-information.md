@@ -15,9 +15,9 @@ Sebastian Posth, Liccium B.V.
 
 ## Status of this document
 
-This document is open for feedback and discussion.\
-Version: v0.6\
-Date: 2023-10-23
+This document is undergoing permanent updates.\
+Version: v2.0\
+Date: 2024-05-17
 
 ## Licence
 

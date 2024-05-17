@@ -2,7 +2,7 @@
 
 ## ISO
 
-ISO/DIS 24138 – Information and documentation — International Standard Content Code,\
+ISO 24138:2024 – International Standard Content Code\
 [https://www.iso.org/standard/77899.html](https://www.iso.org/standard/77899.html)
 
 ## W3C

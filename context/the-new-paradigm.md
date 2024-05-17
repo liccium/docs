@@ -23,7 +23,6 @@ The new solution automates the cryptographic verification process, eliminating t
 Implementing cryptographic methods can:
 
 * Enable content creators and rightsholders to digitally sign content-derived ISCC codes;
-* Preserve similarity and integrity of the content;
 * Allows to to inseparably bind rights, license, and other metadata to the content;
 * Provide publicly accessible and verifiable credentials;
 * Increase trust and transparency in claims and attestations of the declaration.
