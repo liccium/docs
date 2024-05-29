@@ -1,8 +1,10 @@
 # Liccium Whitepaper
 
-<figure><img src=".gitbook/assets/Liccium-Trust-Engine.png" alt=""><figcaption><p>Liccium Trust Engine – Digitally sign your original creative works!</p></figcaption></figure>
+Introducing Liccium – a highly innovative, novel application that is deploying state-of-the art technology based on cryptographic premises to reinvent trust and transparency in the digital media space.
 
-Introducing Liccium Trust Engine – a highly innovative, novel application that is deploying state-of-the art technology based on cryptographic premises to reinvent trust and transparency in the digital media space.
+
+
+<figure><img src=".gitbook/assets/Liccium horizontal.png" alt=""><figcaption></figcaption></figure>
 
 ### Verifiable declarations
 
