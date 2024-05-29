@@ -4,7 +4,7 @@ Introducing Liccium – a highly innovative, novel application that is deploying
 
 
 
-<figure><img src=".gitbook/assets/Liccium horizontal.png" alt=""><figcaption></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/Liccium horizontal-ffca80.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Liccium horizontal.png" alt=""></picture><figcaption></figcaption></figure>
 
 ### Verifiable declarations
 
