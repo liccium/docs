@@ -1,7 +1,3 @@
----
-description: This is the Liccium whitepaper
----
-
 # Liccium Whitepaper
 
 <figure><img src=".gitbook/assets/Liccium-Trust-Engine.png" alt=""><figcaption><p>Liccium Trust Engine – Digitally sign your original creative works!</p></figcaption></figure>
@@ -24,7 +20,7 @@ Utilising the Creator Credentials protocol, a framework for managing digital ide
 
 Liccium is based on the International Standard Content Code (ISCC), a content-derived identifier, lightweight fingerprinting, and open identification system for digital media content of all media types (image, video, text, audio),  using cryptographic and similarity- preserving hashes to create a unique ID for each digital asset.&#x20;
 
-After 5 years of work, ISCC was published as a globally approved ISO standard for digital content identification.&#x20;
+In May 2024, ISCC was published by ISO as a global standard for digital content identification:
 
 [ISO 24138:2024](https://www.iso.org/standard/77899.html)
 
