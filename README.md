@@ -29,7 +29,3 @@ In May 2024, ISCC was published by ISO as a global standard for digital content 
 Using a novel standard for the decentralised identification of content (ISCC), this information is inextricably linked to the content. This allows any user, system or machine with access to the digital asset to independently generate an identical or similar ISCC code that enables the identification, comparison and reconciliation of digital content while assessing its integrity and authenticity.&#x20;
 
 Thus, ISCC remains dependable, retaining its full range of capabilities even in scenarios where content is altered or manipulated, or when watermarks, steganographic data, or metadata is removed from the media asset.
-
-
-
-{% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list!" %}

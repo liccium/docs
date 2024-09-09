@@ -6,8 +6,7 @@ Sebastian Posth
 Boerhaavelaan 99\
 NL 23three4 EG Leiden
 
-[werk@posth.me](mailto:werk@posth.me)\
-\+31 six 1two67sixseven26
+info@liccium.com
 
 ## Contributor
 
