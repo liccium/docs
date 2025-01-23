@@ -1,29 +1,9 @@
 # The International Standard Content Code (ISCC)
 
-The Liccium Trust Engine is based on the International Standard Content Code (ISCC), an upcoming ISO standard and decentralised identification system, developed by the ISCC Foundation.
+Liccium is based on the International Standard Content Code (ISCC) and is one of the first applications of its kind. The ISCC is a new and highly innovative open identification system and global ISO standard (ISO 24138:2024) that enables decentralised digital content identification. Thanks to the ISCC, any creator, platform or other user with access to digital media content can derive the identifier from the digital media assets, such as images, videos, audio or text files.
 
-ISCC is a decentralised identifier and an open identification system for the cultural and creative communities that utilises short identifiers to identify and match digital media assets. The codes are generated using a combination of cryptographic and similarity- preserving hashes. They enable decentralisation of content identification, and matching of similar or duplicate content.
+The fact that the ISCC is generated directly from the digital media file eliminates the need for manual application and management of the identifier, as is necessary with ISBN, ISRC, DOI, and other legacy identifier standards. Each digital media file has its own unique identifier, which does not need to be applied but is extracted from the content. This means that two users or machines can generate the same or a similar identifier directly from the media file without exchanging any kind of information or metadata about the content.&#x20;
 
-<figure><img src="../.gitbook/assets/iscc-codec-light.png" alt=""><figcaption><p>Source: <a href="https://core.iscc.codes/#iscc-architecture">https://core.iscc.codes/#iscc-architecture</a>, by T. Pan</p></figcaption></figure>
-
-The main distinguishing feature of the ISCC to other existing standardised content identifiers (e.g., ISBN, DOI, or ISRC) is the fact that the ISCC is generated from the content file itself. This means that anyone with access to digital content – it could be the original creator, a publisher, an intermediary, an online platform, or a consumer – can decentrally generate the same or similar identifier from the same or similar digital media asset.
-
-This enables anyone to unambiguously identify identical or match with a certain degree of probability similar content independent of centralised authorities, organisations, registries or proprietary third-party services and software.
+ISCC is a multi-composite identifier that combines cryptographic hashes, which make it possible to verify content integrity and determine whether the file has been modified, with similarity-preserving hashes in the other code units. In cases where there are different versions of the same content or content in different file formats, slightly modified or manipulated content, or content from which the metadata has been removed, the identifiers derived from the content are different but likely to match up to a certain degree of modification. Thus, ISCC supports the efficient detection of near-duplicate content while ensuring the integrity of the content. Already today, ISCC codes can be generated from most file formats of all media types (text, images, video, audio), which means that the same identification system can be used by all media sectors. And within a sector, the ISCC can be used for all content types, e.g. a news publisher could use it for press photos, news articles, videos, or podcasts.
 
 <figure><img src="../.gitbook/assets/Forrest-Slide.png" alt=""><figcaption><p>Example showing comparison of ISCC codes / units</p></figcaption></figure>
-
-Processing the digital media with the algorithms provided in the ISCC specification creates a unique composite code that consists of (currently) four units: the Meta-Code, Content-Code, Data-Code, and Instance-Code. Thus, the ISCC identifies and describes content across multiple layers: from the embedded or external metadata, the normalised content, the encoded file data down to the bitstream of an individual file.
-
-ISCC can be used to:
-
-* Automatically distinguish different versions of the same content;
-* Cluster similar content;
-* De-duplicate and to disambiguate content in different content repositories;
-* Assign identifiers to granular content chunks;
-* Verify data integrity or recognise data manipulation.
-
-The ISCC Foundation, a not-for-profit organisation, maintains the open reference implementation of the ISCC and provides free open-source tools anyone can use to generate ISCC codes.
-
-In 2019, the ISCC was submitted to ISO by the German standards organisation, DIN. After two years of preliminary work, in 2021 the ISCC was approved as a full work item by the participating members of the ISO sub-committee TC 46/SC 9 in 2021.
-
-Currently, the ISCC is registered as a draft international standard (DIS) (ISO stage code 40.00). After the ongoing DIS ballot, the standard is scheduled to be published in Q1/2024.
