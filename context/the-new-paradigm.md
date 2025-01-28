@@ -14,18 +14,14 @@ A manual analysis for verification purposes is laborious, time-consuming, ineffi
 
 By providing an effective identification system that allows to inseparably connect metadata, rights management information, and verifiable credentials to the content, we can ensure that creators receive proper credit and compensation for their work, users can trust the content they consume, and stakeholders can operate in a safe and compliant environment.
 
-<figure><img src="../.gitbook/assets/Analysis-verification.png" alt=""><figcaption></figcaption></figure>
+We propose a paradigm shift in the way digital media files are assessed: moving from analysis to verification. The new solution automates the cryptographic verification process, eliminating the need for manual searches or technical forensic analysis of millions of digital media assets.&#x20;
 
-We propose a paradigm shift in the way digital media files are assessed: moving from analysis to verification.
+Implementing cryptographic methods:
 
-The new solution automates the cryptographic verification process, eliminating the need for manual searches or technical forensic analysis of millions of digital media assets.&#x20;
-
-Implementing cryptographic methods can:
-
-* Enable content creators and rightsholders to digitally sign content-derived ISCC codes;
-* Allows to to inseparably bind rights, license, and other metadata to the content;
-* Provide publicly accessible and verifiable credentials;
-* Increase trust and transparency in claims and attestations of the declaration.
+* Enables content creators and rightsholders to digitally sign content-derived ISCC codes;
+* Allows to to inseparably bind rights, licenses, and other metadata to the content;
+* Provides publicly accessible and verifiable credentials;
+* Increases trust and transparency in claims and attestations of the declaration.
 
 By using cryptographic methods, content creators and rightsholders can enhance the trustworthiness of their content and the transparency of their claims. Digital media files can be securely and efficiently verified by users and platforms, eliminating the need for time-consuming and ineffective manual analysis.
 
