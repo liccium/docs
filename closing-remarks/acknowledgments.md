@@ -1,11 +1,15 @@
 # Acknowledgments
 
-Liccium is the outcome of more than six years of work. Since the initial application to a Google-funded grant for the Content Blockchain Project in 2017, it was my personal goal to create a tool that would help the creative community and rightsholders monetise their works more securely and efficiently by attaching human and machine-readable metadata and rights management information to a content-derived identifier. It is the result of these efforts and continuous input from stakeholders and potential users of the app during these years.
+Liccium is the outcome of many years of work. Since 2016, it was our goal to create a tool that would help the creative community and rightsholders monetise their works more securely and efficiently by attaching human and machine-readable metadata and rights management information to a content-derived identifier. It is the result of these efforts and continuous input from stakeholders and potential users of the app during these years.
 
-Credit for most of the ISCC-related content goes to Titusz Pan, the inventor of the ISCC system and author of exhaustive technical documentation on the foundation's websites and GitHub repositories. He developed the ISCC system as it stands today.
+Titusz Pan is the inventor of the ISCC system and author of exhaustive technical documentation on the foundation's websites and GitHub repositories. He developed the ISCC system as it stands today.
 
-In 2022 and 2023, Liccium B.V. (former Posth Werk B.V.) received funding from the European Union's Horizon 2020 research and innovation programme (grant agreement No. 957228) for the technical specification and actual development of the MVP of the Liccium app. The [TruBlo.eu](https://trublo.eu) program also triggered and advised on a proper analysis and documentation of project drivers and product-to-market fit. I am very grateful for this support! The views in this whitepaper do not necessarily reflect those of the TruBlo consortium or the European Commission, and they are not liable for any use made of the information contained herein.
+In 2022, Liccium B.V. (former Posth Werk B.V.)  received an equity-free grant in a competitive open call of the NGI Trublo program (grant agreement no. 957228, [https://www.trublo.eu/](https://www.trublo.eu/)). The grant provided initial financial support for the specification of the Liccium protocol and the successful development of the MVP of the Liccium B2C web application, the first application using ISCC at its core.&#x20;
 
-Supported by the Institute for Internet Security, I had the chance to work on key concepts of SSI, such as decentralised identifiers (DIDs) and verifiable credentials (VCs), which are a key component of the project.   &#x20;
+This work was sustained with an additional equity-free grant for the Creator Credentials project in the context of OC1 or the NGI / Trustchain program (grant agreement no. 101093274, [https://trustchain.ngi.eu/](https://trustchain.ngi.eu/)). The project adds a missing component to the Liccium application by providing a user-centric framework for managing digital identities specifically tailored to the unique needs of the cultural and creative industries. This includes a software application that can be used by media organisations, membership organisations or other future trust services to manage and issue verifiable credentials to creators and other rightsholders. This work was successfully concluded in April 2024.
+
+I am very grateful for this support!&#x20;
+
+During my research at the Institute for Internet Security, I had the chance to work on key concepts of SSI, such as decentralised identifiers (DIDs) and verifiable credentials (VCs), which are a key component of the project.&#x20;
 
 The author is also grateful for a small grant and valuable coaching from the [Media-Lab Bayern](https://www.media-lab.de/de/) in Munich in 2019.

@@ -1,10 +1,16 @@
 # Liccium
 
-Liccium app (production)\
+Liccium Landing page\
+[https://liccium.com](https://liccium.com)
+
+Liccium cloud app (production)\
 [https://liccium.app](https://liccium.app)
 
-Liccium app (staging)\
-[https://liccium.dev](https://liccium.dev)
+Creator Credentials Project Website\
+[https://docs.creatorcredentials.com](https://docs.creatorcredentials.com/)
 
-Liccium browser plugin\
-[https://github.com/liccium/liccium-chrome-extension/blob/main/README.md](https://github.com/liccium/liccium-chrome-extension/blob/main/README.md)
+Creator Credentials app[\
+https://creatorcredentials.app](https://creatorcredentials.app/).
+
+Liccium – TDM·AI Protocol\
+[https://tdmai.org](https://tdmai.org/).
