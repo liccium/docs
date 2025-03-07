@@ -1,12 +1,10 @@
 # Imprint information
 
 Liccium B.V.\
-Sebastian Posth
-
 Boerhaavelaan 99\
 NL 23three4 EG Leiden
 
-info@liccium.com
+info @ liccium.com
 
 ## Contributor
 
@@ -15,8 +13,7 @@ Sebastian Posth, Liccium B.V.
 ## Status of this document
 
 This document is undergoing permanent updates.\
-Version: v2.0\
-Date: 2024-05-17
+Date: 2025-05-07
 
 ## Licence
 
