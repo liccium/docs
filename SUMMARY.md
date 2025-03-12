@@ -1,7 +1,24 @@
 # Table of contents
 
 * [Liccium Documentation](README.md)
-* [Introduction](introduction.md)
+  * [What is Liccium?](liccium-documentation/what-is-liccium.md)
+  * [Who is Liccium for?](liccium-documentation/who-is-liccium-for.md)
+  * [Why Does Liccium Matter?](liccium-documentation/why-does-liccium-matter.md)
+* [Core Features](core-features/README.md)
+  * [ISCC Content Fingerprinting](core-features/iscc-content-fingerprinting.md)
+  * [Verifiable Creator Credentials](core-features/verifiable-creator-credentials.md)
+  * [Soft Binding of Metadata](core-features/soft-binding-of-metadata.md)
+  * [Federated Content Registries](core-features/federated-content-registries.md)
+* [Products](products/README.md)
+  * [Liccium Cloud Application (B2C)](products/liccium-cloud-application-b2c.md)
+  * [Liccium Declaration Engine (B2B)](products/liccium-declaration-engine-b2b.md)
+  * [Metadata API](products/metadata-api.md)
+  * [Registry Nodes](products/registry-nodes.md)
+* [Use Cases](use-cases/README.md)
+  * [Creators & Rightsholders](use-cases/creators-and-rightsholders.md)
+  * [AI Model Providers & Digital Platforms](use-cases/ai-model-providers-and-digital-platforms.md)
+  * [Journalists, Fact-Checkers & News Organizations](use-cases/journalists-fact-checkers-and-news-organizations.md)
+  * [Institutions & Regulatory Bodies](use-cases/institutions-and-regulatory-bodies.md)
 
 ## Context
 

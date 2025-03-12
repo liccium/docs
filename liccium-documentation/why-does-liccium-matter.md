@@ -3,7 +3,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -12,35 +12,7 @@ layout:
     visible: true
 ---
 
-# Introduction
-
-## What is Liccium?
-
-Liccium is software for digital content authentication and rights management, designed for individual creators (Liccium Cloud Application) and media organizations. It enables users to digitally sign and declare ownership, rights, and metadata for their content while ensuring that these claims remain verifiable—even if metadata is removed, the file is modified, or the content is shared beyond the creator’s or rightsholder’s control.
-
-Instead of embedding metadata, Liccium uses soft binding, linking content to signed declarations stored in federated registries. These registries ensure that ownership claims, rights statements, and licensing information remain discoverable, accessible, and independently verifiable – without relying on a single centralized database or proprietary system.
-
-## Who is Liccium for?
-
-Liccium is designed for creators, media organizations, digital platforms, and everyday users who require a reliable system for content authentication, rights management, and provenance tracking.
-
-### Individual Creators
-
-Artists, photographers, writers, musicians, and other creators use the Liccium Cloud Application to digitally sign their original works, publicly declare ownership, metadata, and rights, and protect their intellectual property. Using Liccium’s ISCC-based content fingerprinting and soft-binding technology, creators ensure that their works remain verifiably linked to their claims, even when content is modified or metadata is removed.
-
-### Media Organizations
-
-Publishing houses, news agencies, broadcasters, and other media entities integrate Liccium into their existing workflows to authenticate digital content, manage rights declarations, and maintain verifiable provenance records. Liccium’s software streamlines the management of digital rights, ensuring authenticity, accurate attribution, and transparency across various distribution channels.
-
-### Digital Platforms and AI Providers
-
-Online platforms, content aggregators, and AI developers access Liccium’s federated registries and machine-readable rights declarations to ensure compliance and responsible use of digital media. Liccium helps platforms verify licensing terms, respect AI opt-out declarations, and distinguish clearly between public domain, licensed, and restricted content.
-
-### Internet Users
-
-Internet users can benefit from Liccium by easily verifying the authenticity and provenance of digital media content. Liccium enables them to independently confirm whether content is original or synthetic, accurately determine ownership and licensing status, and protect themselves from misinformation, manipulated media, or unauthorized use of copyrighted works.
-
-## Why Does Liccium Matter?
+# Why Does Liccium Matter?
 
 The increasing prevalence of misinformation, disinformation, fake news, and synthetic media poses a critical challenge for societies, businesses, and individuals alike. As digital content spreads instantly across platforms online – often created or altered by generative AI – it becomes increasingly difficult to verify authenticity, provenance, and rights ownership. This unchecked spread of manipulated information can deepen social divides, destabilize democratic institutions, and incite real-world harm, ranging from social unrest and hate crimes to threats against democratic stability.
 
@@ -65,5 +37,3 @@ Liccium allows creators and rightsholders to digitally declare precisely how the
 AI model providers, digital platforms, and regulatory bodies can reliably reference Liccium’s federated registries of rights declarations to systematically verify content usage permissions. This ensures that digital media usage and AI training datasets align transparently and accountably with the expressed wishes of rightsholders.
 
 By establishing a trustworthy, open, and verifiable rights management framework, Liccium empowers creators, reinforces accountability among digital platforms, and restores trust in digital media provenance.
-
-\
