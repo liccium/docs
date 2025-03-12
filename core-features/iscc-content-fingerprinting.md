@@ -18,7 +18,7 @@ The International Standard Content Code (ISCC) is a content-derived identifier t
 
 ISCC uses advanced cryptographic and perceptual hashing to detect exact matches and near-duplicates, making it a powerful tool for tracking content distribution, provenance, and authenticity across platforms and formats.
 
-## Key properties of ISCC fingerprinting include:
+Key properties of ISCC fingerprinting include:
 
 ### Integrity Verification:
 
