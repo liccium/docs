@@ -1,11 +1,11 @@
 # Table of contents
 
-## Introduction
+## About Liccium
 
-* [The Invention of Trust for Digital Media](README.md)
-  * [What is Liccium?](introduction/the-invention-of-trust-for-digital-media/what-is-liccium.md)
-  * [Who is Liccium for?](introduction/the-invention-of-trust-for-digital-media/who-is-liccium-for.md)
-  * [Why Does Liccium Matter?](introduction/the-invention-of-trust-for-digital-media/why-does-liccium-matter.md)
+* [Introduction](README.md)
+  * [What is Liccium?](about-liccium/introduction/what-is-liccium.md)
+  * [Who is Liccium for?](about-liccium/introduction/who-is-liccium-for.md)
+  * [Why Does Liccium Matter?](about-liccium/introduction/why-does-liccium-matter.md)
 
 ***
 
