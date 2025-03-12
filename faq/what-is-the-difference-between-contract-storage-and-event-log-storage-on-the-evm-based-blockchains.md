@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What is the difference between contract storage and event log storage on the EVM-based blockchains?
 
 On EVM-based blockchains, contract storage is used to store the persistent state of a smart contract.

@@ -4,6 +4,7 @@
   * [What is Liccium?](the-invention-of-trust-for-digital-media/what-is-liccium.md)
   * [Who is Liccium for?](the-invention-of-trust-for-digital-media/who-is-liccium-for.md)
   * [Why Does Liccium Matter?](the-invention-of-trust-for-digital-media/why-does-liccium-matter.md)
+* [Page](page.md)
 * [Core Technology](core-technology/README.md)
   * [ISCC Content Fingerprinting](core-technology/iscc-content-fingerprinting.md)
   * [Verifiable Creator Credentials](core-technology/verifiable-creator-credentials.md)
@@ -22,9 +23,6 @@
 
 ## Context
 
-* [Market drivers](context/market-drivers/README.md)
-  * [Trust tech](context/market-drivers/trust-tech.md)
-  * [EU policy frameworks](context/market-drivers/eu-policy-frameworks.md)
 * [Demand drivers](context/demand-drivers/README.md)
   * [Fighting fake news and disinformation](context/demand-drivers/fighting-fake-news-and-disinformation.md)
   * [Artificial intelligence](context/demand-drivers/artificial-intelligence.md)
@@ -40,7 +38,12 @@
 
 ## Liccium app
 
-* [About the Liccium app](liccium-app/about-the-liccium-app.md)
+* [Liccium Cloud app](liccium-app/liccium-cloud-app/README.md)
+  * [Generating ISCC Codes](liccium-app/liccium-cloud-app/generating-iscc-codes.md)
+  * [Basic metadata](liccium-app/liccium-cloud-app/basic-metadata.md)
+  * [Liccium plugins](liccium-app/liccium-cloud-app/liccium-plugins.md)
+  * [Creator credentials](liccium-app/liccium-cloud-app/creator-credentials.md)
+  * [Liccium browser plugin](liccium-app/liccium-cloud-app/liccium-browser-plugin.md)
 
 ## FAQ
 

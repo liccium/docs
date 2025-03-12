@@ -24,6 +24,8 @@ Artists, photographers, writers, musicians, and other creators use the Liccium C
 
 Publishing houses, news agencies, broadcasters, and other media entities integrate Liccium into their existing workflows to authenticate digital content, manage rights declarations, and maintain verifiable provenance records. Liccium’s software streamlines the management of digital rights, ensuring authenticity, accurate attribution, and transparency across various distribution channels.
 
+<table><thead><tr><th width="102"></th><th width="152">Creators</th><th width="202">Rightsholders</th><th>Intermediaries</th></tr></thead><tbody><tr><td><strong>Image</strong></td><td>Photographers</td><td>Stock photo platforms, publishers; photo licensing agencies</td><td>News agencies</td></tr><tr><td><strong>Audio</strong></td><td>Bands; singers / songwriters; podcasters</td><td>Record labels, music publishers, studios</td><td>Music distributors, CMOs</td></tr><tr><td><strong>Text</strong></td><td>Authors; independent journalists; bloggers</td><td>Literary Agencies; Publishers (academic, trade, educational, audiobook, news)</td><td><p>News and ebook distributors</p><p>libraries</p></td></tr><tr><td><strong>Video</strong></td><td>Vloggers</td><td>TV and video producers and broadcasters</td><td>Video distributors</td></tr></tbody></table>
+
 ### Digital Platforms and AI Providers
 
 Online platforms, content aggregators, and AI developers access Liccium’s federated registries and machine-readable rights declarations to ensure compliance and responsible use of digital media. Liccium helps platforms verify licensing terms, respect AI opt-out declarations, and distinguish clearly between public domain, licensed, and restricted content.

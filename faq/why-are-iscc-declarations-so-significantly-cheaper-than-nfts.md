@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Why are ISCC declarations so significantly cheaper than NFTs?
 
 Gas costs in the evm-based blockchain are higher for storing data in a contract compared to storing data in an event log because contract storage is a more expensive and resource-intensive operation.

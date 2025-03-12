@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What is the difference between NFTs and ISCC declarations?
 
 When an NFT is being minted, the issuer is calling the minting function of an NFT smart contract. This function requires certain parameters, like the recipient address, the token ID, and any metadata associated with the NFT.
