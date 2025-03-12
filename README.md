@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # The Invention of Trust for Digital Media
 
 <figure><picture><source srcset=".gitbook/assets/Liccium horizontal-white.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Liccium horizontal.png" alt="" width="375"></picture><figcaption><p>Liccium Logo</p></figcaption></figure>

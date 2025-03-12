@@ -1,10 +1,14 @@
 # Table of contents
 
+## Introduction
+
 * [The Invention of Trust for Digital Media](README.md)
-  * [What is Liccium?](the-invention-of-trust-for-digital-media/what-is-liccium.md)
-  * [Who is Liccium for?](the-invention-of-trust-for-digital-media/who-is-liccium-for.md)
-  * [Why Does Liccium Matter?](the-invention-of-trust-for-digital-media/why-does-liccium-matter.md)
-* [Page](page.md)
+  * [What is Liccium?](introduction/the-invention-of-trust-for-digital-media/what-is-liccium.md)
+  * [Who is Liccium for?](introduction/the-invention-of-trust-for-digital-media/who-is-liccium-for.md)
+  * [Why Does Liccium Matter?](introduction/the-invention-of-trust-for-digital-media/why-does-liccium-matter.md)
+
+***
+
 * [Core Technology](core-technology/README.md)
   * [ISCC Content Fingerprinting](core-technology/iscc-content-fingerprinting.md)
   * [Verifiable Creator Credentials](core-technology/verifiable-creator-credentials.md)
