@@ -16,20 +16,16 @@ layout:
 
 Since anyone can make a public declaration, it is important to ensure proper authentication of the source of each declaration. Liccium declaration metadata contain publicly accessible and verifiable creator credentials, which are based on the W3C standards for Verifiable Credentials, supported by advanced and qualified certificates that properly identify creators and rightsholders (according to the novel eIDAS regulation). Creator credentials serve as a means for attribution and authentication of creators and rightsholders based on social or institutional authentication, thereby increasing trust in claims and attribution.
 
-### 1. Decentralized Digital Identity (SSI)
+* **Decentralized Digital Identity (SSI)**\
+  Creators can independently manage identities and credentials without depending on centralised authorities, maintaining full control over their claims.
+* **Cryptographically Verifiable Claims**\
+  Credentials are cryptographically secured, ensuring authenticity, integrity, and tamper resistance, enabling reliable, permanent attribution—even pseudonymously if desired.
+* **Privacy-Preserving Attribution**\
+  Creators can prove ownership or authorship claims without compromising their personal privacy, maintaining control over how their identity and attribution information is shared.
 
-Creators can independently manage identities and credentials without depending on centralised authorities, maintaining full control over their claims.
+See more information on [docs.creatorcredentials.com](http://docs.creatorcredentials.com)
 
-### 2. Cryptographically Verifiable Claims
-
-Credentials are cryptographically secured, ensuring authenticity, integrity, and tamper resistance, enabling reliable, permanent attribution—even pseudonymously if desired.
-
-### 3. Privacy-Preserving Attribution
-
-Creators can prove ownership or authorship claims without compromising their personal privacy, maintaining control over how their identity and attribution information is shared.
-
-See more information\
-[docs.creatorcredentials.com](http://docs.creatorcredentials.com)
+{% embed url="https://docs.creatorcredentials.com" %}
 
 ## Motivation
 

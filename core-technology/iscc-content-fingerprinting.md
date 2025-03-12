@@ -24,17 +24,12 @@ ISCC is a multi-composite identifier that combines cryptographic hashes, which m
 
 The key properties of ISCC fingerprinting:
 
-### 1. Integrity Verification
-
-Cryptographic hashes detect even minor alterations, ensuring content integrity.
-
-### 2. Similarity Matching
-
-Similarity-preserving hashes (SimHashes) identify near-duplicate files, enabling tracking across content transformations.
-
-### 3. Universal Application
-
-ISCC facilitates consistent metadata management, rights tracking, and reliable content authentication, serving as a universal reference point for digital media, fostering interoperability and persistent linking of claims and content across creative industries.
+* **Integrity Verification:**\
+  Cryptographic hashes detect even minor alterations, ensuring content integrity.
+* **Similarity Matching:**\
+  Similarity-preserving hashes (SimHashes) identify near-duplicate files, enabling tracking across content transformations.
+* **Universal Application:**\
+  ISCC facilitates consistent metadata management, rights tracking, and reliable content authentication, serving as a universal reference point for digital media, fostering interoperability and persistent linking of claims and content across creative industries.
 
 For more information on ISCC, see [https://iscc.io](https://iscc.io)
 

@@ -20,14 +20,9 @@ Soft binding represents a new approach to securely linking rights and metadata t
 
 Key advantages of Soft Binding include:
 
-### Metadata Resilience:
-
-Metadata and rights declarations remain intact and verifiable, even if the original content file is modified or metadata is removed.
-
-### Scalable Rights Management:
-
-Enables automated, large-scale management of rights declarations, licensing terms, and metadata across entire industries or platforms.
-
-### Flexible Metadata Integration:
-
-Supports integration of industry-specific or custom metadata through modular plugins, allowing tailored rights management solutions for diverse sectors and content types.
+* **Metadata Resilience:**\
+  Metadata and rights declarations remain intact and verifiable, even if the original content file is modified or metadata is removed.
+* **Scalable Rights Management:**\
+  Enables automated, large-scale management of rights declarations, licensing terms, and metadata across entire industries or platforms.
+* **Flexible Metadata Integration:**\
+  Supports integration of industry-specific or custom metadata through modular plugins, allowing tailored rights management solutions for diverse sectors and content types.

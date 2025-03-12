@@ -20,6 +20,6 @@ The Liccium Declaration Engine is a robust, enterprise-grade solution specifical
 * Automate digital rights declarations, managing extensive content portfolios.
 * Maintain verifiable attribution and provenance records across their content distribution networks.
 
-**Declaration API**
+## **Declaration API**
 
 The Liccium Declaration Engine includes the Declaration API, enabling media organizations and platforms to automate integration of ISCC-based content declarations directly into their existing workflows, simplifying large-scale rights management and metadata registration.
