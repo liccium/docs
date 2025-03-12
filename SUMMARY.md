@@ -1,14 +1,14 @@
 # Table of contents
 
-* [Liccium Documentation](README.md)
-  * [What is Liccium?](liccium-documentation/what-is-liccium.md)
-  * [Who is Liccium for?](liccium-documentation/who-is-liccium-for.md)
-  * [Why Does Liccium Matter?](liccium-documentation/why-does-liccium-matter.md)
-* [Core Features](core-features/README.md)
-  * [ISCC Content Fingerprinting](core-features/iscc-content-fingerprinting.md)
-  * [Verifiable Creator Credentials](core-features/verifiable-creator-credentials.md)
-  * [Soft Binding of Metadata](core-features/soft-binding-of-metadata.md)
-  * [Federated Content Registries](core-features/federated-content-registries.md)
+* [The Invention of Trust for Digital Media](README.md)
+  * [What is Liccium?](the-invention-of-trust-for-digital-media/what-is-liccium.md)
+  * [Who is Liccium for?](the-invention-of-trust-for-digital-media/who-is-liccium-for.md)
+  * [Why Does Liccium Matter?](the-invention-of-trust-for-digital-media/why-does-liccium-matter.md)
+* [Core Technology](core-technology/README.md)
+  * [ISCC Content Fingerprinting](core-technology/iscc-content-fingerprinting.md)
+  * [Verifiable Creator Credentials](core-technology/verifiable-creator-credentials.md)
+  * [Soft Binding of Metadata](core-technology/soft-binding-of-metadata.md)
+  * [Federated Content Registries](core-technology/federated-content-registries.md)
 * [Products](products/README.md)
   * [Liccium Cloud Application (B2C)](products/liccium-cloud-application-b2c.md)
   * [Liccium Declaration Engine (B2B)](products/liccium-declaration-engine-b2b.md)
@@ -38,19 +38,9 @@
   * [NFTs](context/complementary-solutions/nfts.md)
   * [Making a difference](context/complementary-solutions/making-a-difference.md)
 
-## Declarations
-
-* [The International Standard Content Code (ISCC)](declarations/the-international-standard-content-code-iscc.md)
-* [Verifiable content registries](declarations/verifiable-content-registries.md)
-
 ## Liccium app
 
 * [About the Liccium app](liccium-app/about-the-liccium-app.md)
-
-## Verifiable credentials
-
-* [Creator Credentials](verifiable-credentials/creator-credentials.md)
-* [Creator Hub and Issuer Portal](verifiable-credentials/creator-hub-and-issuer-portal.md)
 
 ## FAQ
 
