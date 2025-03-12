@@ -1,7 +1,12 @@
 ---
+cover: .gitbook/assets/Gitbook cover image.png
+coverY: 0
 layout:
-  title:
+  cover:
     visible: true
+    size: hero
+  title:
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -13,8 +18,6 @@ layout:
 ---
 
 # The Invention of Trust for Digital Media
-
-<figure><picture><source srcset=".gitbook/assets/Liccium horizontal-white.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Liccium horizontal.png" alt="" width="375"></picture><figcaption><p>Liccium Logo</p></figcaption></figure>
 
 Introducing Liccium – a highly innovative, novel application that is deploying state-of-the art technology based on cryptographic premises to invent trust and transparency in the digital media space.
 
