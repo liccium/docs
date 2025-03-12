@@ -65,7 +65,10 @@
 * [Standards](references/standards.md)
 * [Regulation](references/regulation.md)
 
+## Legal information
+
+* [Imprint](legal-information/imprint.md)
+
 ## Closing remarks
 
 * [Acknowledgments](closing-remarks/acknowledgments.md)
-* [Imprint information](closing-remarks/imprint-information.md)
