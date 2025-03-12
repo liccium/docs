@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Liccium Documentation](README.md)
+* [Introduction](introduction.md)
 
 ## Context
 

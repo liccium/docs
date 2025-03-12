@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Acknowledgments
 
 Liccium is the outcome of many years of work. Since 2016, it was our goal to create a tool that would help the creative community and rightsholders monetise their works more securely and efficiently by attaching human and machine-readable metadata and rights management information to a content-derived identifier. It is the result of these efforts and continuous input from stakeholders and potential users of the app during these years.

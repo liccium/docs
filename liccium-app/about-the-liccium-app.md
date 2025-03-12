@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # About the Liccium app
 
 In 2022, Posth Werk was awarded funding through the [Trublo.eu grant program](https://www.trublo.eu/verisimpledc/) from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 957228.&#x20;
