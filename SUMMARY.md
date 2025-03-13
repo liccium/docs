@@ -18,7 +18,7 @@
   * [Liccium Cloud Application (B2C)](products/liccium-cloud-application-b2c.md)
   * [Liccium Declaration Engine (B2B)](products/liccium-declaration-engine-b2b.md)
   * [Metadata API](products/metadata-api.md)
-  * [Registry Nodes](products/registry-nodes.md)
+  * [Registry Set-up](products/registry-set-up.md)
 * [Use Cases](use-cases/README.md)
   * [Creators & Rightsholders](use-cases/creators-and-rightsholders.md)
   * [AI Model Providers & Digital Platforms](use-cases/ai-model-providers-and-digital-platforms.md)
