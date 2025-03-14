@@ -60,6 +60,10 @@ arduinoCopyEditsyxsatxsuefkiirzkxgv-dj7WgARAtoiA4JdeVKxiujtPBafDRzryocZ1e4dTeN82
 }
 ```
 
+{% hint style="info" %}
+The first prototype of the Liccium Opt-out Registry can be found on: [https://optout.liccium.eu/](https://optout.liccium.eu/)
+{% endhint %}
+
 ## **Integration for AI Model Providers**
 
 The Opt-Out Registry is designed for seamless and effortless integration by AI model providers, web crawlers, and media verification platforms. Setting up a node is incredibly simple for AI model providers, requiring minimal configuration to gain real-time access to machine-readable opt-out declarations. This ensures that rightsholders’ reservations regarding AI training can be automatically acknowledged, allowing AI developers to comply with copyright regulations and AI governance laws without complex infrastructure adjustments.

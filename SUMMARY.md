@@ -28,7 +28,11 @@
 * [Liccium B2B Declaration Engine](liccium-b2b-declaration-engine.md)
 * [Metadata API](metadata-api.md)
 * [Registry Set-up](registry-set-up.md)
-* [Opt-Out Registry](opt-out-registry.md)
+
+## Solutions
+
+* [Opt-Out Registry](solutions/opt-out-registry.md)
+* [TDM·AI 𐂂 – Asset-Based Opt-Out](solutions/tdm-ai-asset-based-opt-out.md)
 
 ## Use Cases
 
