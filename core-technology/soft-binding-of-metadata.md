@@ -26,3 +26,9 @@ Key advantages of Soft Binding include:
   Enables automated, large-scale management of rights declarations, licensing terms, and metadata across entire industries or platforms.
 * **Flexible Metadata Integration:**\
   Supports integration of industry-specific or custom metadata through modular plugins, allowing tailored rights management solutions for diverse sectors and content types.
+
+
+
+{% hint style="info" %}
+<img src="../.gitbook/assets/ISO-logo.png" alt="" data-size="line"> Following the successful publication of ISO 24138 ISCC, ISO TC 46/SC 9/WG 18 will continue with a technical report (TR) on “soft binding” to enhance digital content authenticity standards. [https://www.iso.org/committee/48836.html](https://www.iso.org/committee/48836.html)
+{% endhint %}

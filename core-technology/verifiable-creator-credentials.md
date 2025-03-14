@@ -53,7 +53,7 @@ The Creator Credentials project developed a user-centric digital identity manage
 
 ## The Application
 
-<figure><img src="https://docs.creatorcredentials.com/~gitbook/image?url=https%3A%2F%2F4190583925-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ24Y4feVWHWWf6v1gexc%252Fuploads%252F5CA2A8rmuVGOqmrAk6gT%252FCreator-Credentials-landing%25402x.png%3Falt%3Dmedia%26token%3D060efbd9-3cab-4fa1-a77f-f89f58ba315b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c05a65a32c9a58f1c3ac0a128217281b7407db074fcd6d72516f44a32f2ad158" alt=""><figcaption><p>CreatorCredentials.app</p></figcaption></figure>
+<figure><img src="https://docs.creatorcredentials.com/~gitbook/image?url=https%3A%2F%2F4190583925-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ24Y4feVWHWWf6v1gexc%252Fuploads%252F5CA2A8rmuVGOqmrAk6gT%252FCreator-Credentials-landing%25402x.png%3Falt%3Dmedia%26token%3D060efbd9-3cab-4fa1-a77f-f89f58ba315b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c05a65a32c9a58f1c3ac0a128217281b7407db074fcd6d72516f44a32f2ad158" alt="" width="375"><figcaption><p>CreatorCredentials.app</p></figcaption></figure>
 
 ### Enter the construction site <a href="#enter-the-construction-site" id="enter-the-construction-site"></a>
 
