@@ -1,5 +1,9 @@
 # ISCC
 
+{% hint style="info" %}
+<img src="../.gitbook/assets/ISO-logo.png" alt="" data-size="line"> In 2024, ISO published the International Standard Content Code (ISCC) as international standard for digital content identification, ISO 24138:2024: [https://www.iso.org/standard/77899.html](https://www.iso.org/standard/77899.html)
+{% endhint %}
+
 ## General links
 
 ISO 24138:2024 – International Standard Content Code,\
@@ -7,9 +11,6 @@ ISO 24138:2024 – International Standard Content Code,\
 
 ISCC Foundation,\
 [https://iscc.io/](https://iscc.io/)
-
-ISCC-web Generator API,\
-[https://iscc.io/docs](https://iscc.io/docs)
 
 ISCC codec and algorithms, extensive documentation,\
 [https://core.iscc.codes](https://core.iscc.codes)

@@ -2,6 +2,10 @@
 
 ## ISO
 
+{% hint style="info" %}
+<img src="../.gitbook/assets/ISO-logo.png" alt="" data-size="line"> In 2024, ISO published the International Standard Content Code (ISCC) as international standard for digital content identification, ISO 24138:2024.
+{% endhint %}
+
 ISO 24138:2024 – International Standard Content Code\
 [https://www.iso.org/standard/77899.html](https://www.iso.org/standard/77899.html)
 
@@ -17,3 +21,5 @@ did:web Method Specification, 11 January 2023,\
 [https://w3c-ccg.github.io/did-method-web/](https://w3c-ccg.github.io/did-method-web/)
 
 Status List 2021, privacy-preserving status information for Verifiable Credentials, [https://w3c.github.io/vc-status-list-2021](https://w3c.github.io/vc-status-list-2021/)
+
+VC Framework EBSI Hub. [https://hub.ebsi.eu/vc-framework](https://hub.ebsi.eu/vc-framework)

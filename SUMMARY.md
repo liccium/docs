@@ -48,6 +48,7 @@
   * [Liccium plugins](liccium-app/liccium-cloud-app/liccium-plugins.md)
   * [Creator credentials](liccium-app/liccium-cloud-app/creator-credentials.md)
   * [Liccium browser plugin](liccium-app/liccium-cloud-app/liccium-browser-plugin.md)
+* [Liccium B2B Declaration Engine](liccium-app/liccium-b2b-declaration-engine.md)
 
 ## FAQ
 
