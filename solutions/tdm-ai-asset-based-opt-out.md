@@ -2,7 +2,7 @@
 
 ## Making an asset-baset opt-out declaration
 
-The TDM·AI protocol enables creators and rightsholders to bind their machine-readable preferences for text and data mining (TDM) directly to digital media assets. This protocol is specifically tailored for training models and applications of generative AI. By utilizing the International Standard Content Code (ISCC) and Creator Credentials, TDM·AI facilitates proper licensing or effective exclusion of content from AI training datasets.
+TDM·AI is a protocol that lets creators and rightsholders bind machine-readable opt-out declarations for text and data mining (TDM) directly to their digital content. It is specifically designed to effectively exclude content from unauthorised data sets used to train models and applications of generative AI, making use of the benefits of the International Standard Content Code (ISCC) and[ ](https://docs.creatorcredentials.com/)Creator Credentials.
 
 ### Motivation
 
