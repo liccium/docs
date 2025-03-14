@@ -4,7 +4,7 @@
 
 TDM·AI is a protocol that lets creators and rightsholders bind machine-readable opt-out declarations for text and data mining (TDM) directly to their digital content. It is specifically designed to effectively exclude content from unauthorised data sets used to train models and applications of generative AI, making use of the benefits of the International Standard Content Code (ISCC) and[ ](https://docs.creatorcredentials.com/)Creator Credentials.
 
-<figure><img src="../.gitbook/assets/tdmai-deer.png" alt="" width="375"><figcaption><p>"Deer AI – Please remove our content!"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/tdmai-deer.png" alt="" width="375"><figcaption><p>Deer AI: Please remove our content!</p></figcaption></figure>
 
 ### Motivation
 
