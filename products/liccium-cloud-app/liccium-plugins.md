@@ -66,8 +66,8 @@ That’s why Liccium not only includes C2PA metadata inside the file but additio
 
 <figure><img src="../../.gitbook/assets/c2pa@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
-For more information, see section on [Soft-Binding](../../core-technology/soft-binding-of-metadata.md).
+For more information, see section on [Soft-Binding](../../technology/soft-binding-of-metadata.md).
 
-{% content-ref url="../../core-technology/soft-binding-of-metadata.md" %}
-[soft-binding-of-metadata.md](../../core-technology/soft-binding-of-metadata.md)
+{% content-ref url="../../technology/soft-binding-of-metadata.md" %}
+[soft-binding-of-metadata.md](../../technology/soft-binding-of-metadata.md)
 {% endcontent-ref %}

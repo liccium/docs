@@ -18,11 +18,13 @@ The Liccium B2B Declaration Engine is an advanced on-premise solution designed f
 
 With high scalability, the engine processes declarations for millions of media assets while providing secure and verifiable registry access for third parties. The API supports industry-specific adaptations, allowing publishers, stock photo platforms, and music labels to define tailored rights management workflows. Seamless integration with Product Management Systems and other business processes ensures efficient handling of metadata, rights declarations, and compliance requirements.
 
-All functionalities, from content registration to rights enforcement, can be fully managed via API, enabling automation and streamlined integration into existing enterprise systems.
-
 The engine supports opt-out declarations for AI training, AI content licensing, and certified originality declarations, helping rightsholders maintain control over their content. It also ensures proper attribution by using certificates and credentials and enables continuous metadata updates, keeping content records accurate for intermediaries, retailers, and platforms.
 
-<figure><img src="../.gitbook/assets/Integration.jpg" alt="" width="563"><figcaption></figcaption></figure>
+## **Declaration API**
+
+All functionalities can be fully managed via API, enabling automation and streamlined integration into existing enterprise systems.
+
+<figure><img src=".gitbook/assets/Integration.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 The **Liccium Declaration Engine** enables media organisations and rightsholders to generate, manage, and publish their content declarations using **ISCC codes** and cryptographic signatures. The process follows three key steps:
 

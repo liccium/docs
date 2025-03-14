@@ -7,23 +7,37 @@
   * [Who is Liccium for?](about-liccium/introduction/who-is-liccium-for.md)
   * [Why Does Liccium Matter?](about-liccium/introduction/why-does-liccium-matter.md)
 
+## Technology
+
+* [ISCC Content Fingerprinting](technology/iscc-content-fingerprinting.md)
+* [Verifiable Creator Credentials](technology/verifiable-creator-credentials.md)
+* [Soft Binding of Metadata](technology/soft-binding-of-metadata.md)
+* [Federated Content Registries](technology/federated-content-registries.md)
+
+## Products
+
+* [Liccium Cloud app](products/liccium-cloud-app/README.md)
+  * [Generating ISCC Codes](products/liccium-cloud-app/generating-iscc-codes.md)
+  * [Basic metadata](products/liccium-cloud-app/basic-metadata.md)
+  * [Liccium plugins](products/liccium-cloud-app/liccium-plugins.md)
+  * [Creator credentials](products/liccium-cloud-app/creator-credentials.md)
+  * [Liccium browser plugin](products/liccium-cloud-app/liccium-browser-plugin.md)
+
 ***
 
-* [Core Technology](core-technology/README.md)
-  * [ISCC Content Fingerprinting](core-technology/iscc-content-fingerprinting.md)
-  * [Verifiable Creator Credentials](core-technology/verifiable-creator-credentials.md)
-  * [Soft Binding of Metadata](core-technology/soft-binding-of-metadata.md)
-  * [Federated Content Registries](core-technology/federated-content-registries.md)
-* [Products](products/README.md)
-  * [Liccium Cloud Application (B2C)](products/liccium-cloud-application-b2c.md)
-  * [Liccium Declaration Engine (B2B)](products/liccium-declaration-engine-b2b.md)
-  * [Metadata API](products/metadata-api.md)
-  * [Registry Set-up](products/registry-set-up.md)
-* [Use Cases](use-cases/README.md)
-  * [Creators & Rightsholders](use-cases/creators-and-rightsholders.md)
-  * [AI Model Providers & Digital Platforms](use-cases/ai-model-providers-and-digital-platforms.md)
-  * [Journalists, Fact-Checkers & News Organizations](use-cases/journalists-fact-checkers-and-news-organizations.md)
-  * [Institutions & Regulatory Bodies](use-cases/institutions-and-regulatory-bodies.md)
+* [Liccium B2B Declaration Engine](liccium-b2b-declaration-engine.md)
+* [Metadata API](metadata-api.md)
+* [Registry Set-up](registry-set-up.md)
+
+## Use Cases
+
+* [Creators & Rightsholders](use-cases/creators-and-rightsholders.md)
+* [AI Model Providers & Digital Platforms](use-cases/ai-model-providers-and-digital-platforms.md)
+
+***
+
+* [Journalists, Fact-Checkers & News Organizations](journalists-fact-checkers-and-news-organizations.md)
+* [Institutions & Regulatory Bodies](institutions-and-regulatory-bodies.md)
 
 ## Context
 
@@ -39,16 +53,6 @@
   * [Content timestamping](context/complementary-solutions/content-timestamping.md)
   * [NFTs](context/complementary-solutions/nfts.md)
   * [Making a difference](context/complementary-solutions/making-a-difference.md)
-
-## Liccium app
-
-* [Liccium Cloud app](liccium-app/liccium-cloud-app/README.md)
-  * [Generating ISCC Codes](liccium-app/liccium-cloud-app/generating-iscc-codes.md)
-  * [Basic metadata](liccium-app/liccium-cloud-app/basic-metadata.md)
-  * [Liccium plugins](liccium-app/liccium-cloud-app/liccium-plugins.md)
-  * [Creator credentials](liccium-app/liccium-cloud-app/creator-credentials.md)
-  * [Liccium browser plugin](liccium-app/liccium-cloud-app/liccium-browser-plugin.md)
-* [Liccium B2B Declaration Engine](liccium-app/liccium-b2b-declaration-engine.md)
 
 ## FAQ
 
@@ -73,7 +77,3 @@
 ## Closing remarks
 
 * [Acknowledgments](closing-remarks/acknowledgments.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
