@@ -28,6 +28,7 @@
 * [Liccium B2B Declaration Engine](liccium-b2b-declaration-engine.md)
 * [Metadata API](metadata-api.md)
 * [Registry Set-up](registry-set-up.md)
+* [Opt-Out Registry](opt-out-registry.md)
 
 ## Use Cases
 
