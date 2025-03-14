@@ -32,7 +32,7 @@ The **Liccium Declaration Engine** enables media organisations and rightsholders
 
 * Media organisations generate International Standard Content Codes (ISCCs) for their media assets (e.g., images, documents, audio, video).
 
-**Step 2: Metadata & Rights Declaration**
+**Step 2: Metadata Selection**
 
 * ISCC codes are added to existing product metadata.
 * Industry-specific metadata is structured as a JSON object for content identification and rights management.
