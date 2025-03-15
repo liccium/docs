@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # Imprint
 
 ## Imprint information <a href="#imprint-information" id="imprint-information"></a>
