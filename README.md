@@ -1,10 +1,10 @@
 ---
-cover: .gitbook/assets/Liccium horizontal (1).png
+cover: .gitbook/assets/Liccium horizontal 1990-480.png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: false
   description:
