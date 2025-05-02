@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Gitbook cover image.jpg
+cover: .gitbook/assets/Liccium horizontal (1).png
 coverY: 0
 layout:
   cover:
