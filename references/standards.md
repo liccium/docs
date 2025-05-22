@@ -1,5 +1,10 @@
 # Standards
 
+## IETF
+
+Proposal for an Opt-Out Vocabulary\
+[https://www.ietf.org/archive/id/draft-keller-aipref-vocab-01.html](https://www.ietf.org/archive/id/draft-keller-aipref-vocab-01.html)
+
 ## ISO
 
 {% hint style="info" %}
