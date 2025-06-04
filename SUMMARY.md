@@ -31,6 +31,7 @@
 
 ## Solutions
 
+* [FAIA – Fair AI Attribution](solutions/faia-fair-ai-attribution.md)
 * [Opt-Out Registry](solutions/opt-out-registry.md)
 * [TDM·AI 𐂂 – Asset-Based Opt-Out](solutions/tdm-ai-asset-based-opt-out.md)
 
