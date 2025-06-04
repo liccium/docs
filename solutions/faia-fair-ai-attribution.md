@@ -6,7 +6,7 @@
 
 With the increasing integration of generative AI tools – ranging from writing assistants to full content generators – creators, publishers, and academic researchers need a consistent and verifiable way to indicate whether and how AI has contributed to the content. FAIA provides that mechanism.
 
-<figure><img src="../.gitbook/assets/FAIA-Overview.jpg" alt="" width="563"><figcaption><p>(Draft)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/FAIA-Slide (1).jpg" alt="" width="563"><figcaption><p>(Draft) </p></figcaption></figure>
 
 ### Goals and Scope
 
