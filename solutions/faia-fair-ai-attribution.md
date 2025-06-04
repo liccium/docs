@@ -2,7 +2,7 @@
 
 ## Fair AI Attribution (FAIA)
 
-**FAIA** is a structured framework for disclosing the role of artificial intelligence in content creation. FAIA will be developed by **Liccium** in collaboration with **Leiden University** and the **GO FAIR Foundation**, addressing a growing need for transparency in digital publishing and research.
+**FAIA** is a structured framework for disclosing the role of artificial intelligence in content creation. FAIA will be developed by [**Liccium**](https://liccium.com/) in collaboration with [**Leiden University**](https://www.universiteitleiden.nl/en) and the [**GO FAIR Foundation**](https://www.gofair.foundation/), addressing a growing need for transparency in digital publishing and research.
 
 With the increasing integration of generative AI tools – ranging from writing assistants to full content generators – creators, publishers, and academic researchers need a consistent and verifiable way to indicate whether and how AI has contributed to the content. FAIA provides that mechanism.
 
@@ -52,3 +52,12 @@ FAIA promotes ethical publishing practices by:
 
 It is designed for cross-sector use but initially focuses on **academic and trade publishing** workflows.
 
+{% hint style="info" %}
+**Project Partners:**&#x20;
+
+[**Leiden University**](https://www.universiteitleiden.nl/en)
+
+[**GO FAIR Foundation**](https://www.gofair.foundation/)
+
+[**Liccium**](https://liccium.com/)
+{% endhint %}
