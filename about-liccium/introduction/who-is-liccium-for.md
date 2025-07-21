@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Who is Liccium for?
 
 Liccium is designed for individual content creators, media organisations, digital platforms, and everyday users who require a reliable system for content authentication, rights management, and provenance tracking.

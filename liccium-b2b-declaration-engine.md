@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Liccium B2B Declaration Engine
 
 The Liccium B2B Declaration Engine is an advanced on-premise solution designed for media organisations and rightsholders to efficiently manage large-scale content declarations. It enables seamless integration into existing workflows, allowing for automated rights management, authentication, and metadata updates across vast content repositories.

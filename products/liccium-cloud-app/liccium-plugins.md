@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Liccium plugins
 
 Liccium plugins enable the integration of use-case- or industry-specific metadata to declarations or other services provided by 3rd parties to the Liccium app. These plugins enhance the app's generic functionality for creators and rightsholders. With Liccium they can seamlessly embed metadata and bind external metadata to their content, thereby customising the app to their specific needs.
@@ -66,8 +52,8 @@ That’s why Liccium not only includes C2PA metadata inside the file but additio
 
 <figure><img src="../../.gitbook/assets/c2pa@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
-For more information, see section on [Soft-Binding](../../technology/soft-binding-of-metadata.md).
+For more information, see section on [Soft-Binding](../../technology/metadata-binding.md).
 
-{% content-ref url="../../technology/soft-binding-of-metadata.md" %}
-[soft-binding-of-metadata.md](../../technology/soft-binding-of-metadata.md)
+{% content-ref url="../../technology/metadata-binding.md" %}
+[metadata-binding.md](../../technology/metadata-binding.md)
 {% endcontent-ref %}

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # AI Model Providers & Digital Platforms
 
 Liccium helps digital platforms and AI providers meet the growing regulatory requirements around AI-generated content and responsible usage of training data. By providing structured and verifiable metadata and rights declarations, Liccium enables compliance with frameworks such as the EU Copyright Directive and the EU AI Act, which require respect of rightsholders' preferences and transparency in AI training data and clear identification of AI-generated content.

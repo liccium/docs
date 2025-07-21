@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Generating ISCC Codes
 
 Liccium allows users to generate and manage ISCC codes, which are decentralised identifiers that can be generated from digital media assets in various file formats.

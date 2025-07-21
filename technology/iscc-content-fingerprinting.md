@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ISCC Content Fingerprinting
 
 Liccium is based on the International Standard Content Code (ISCC) and is one of the first applications of its kind. The ISCC is a new and highly innovative open identification system and global ISO standard (ISO 24138:2024) that enables decentralised digital content identification. Thanks to the ISCC, any creator, platform or other user with access to digital media content can derive the identifier from the digital media assets, such as images, videos, audio or text files.
@@ -32,8 +18,6 @@ The key properties of ISCC fingerprinting:
   Similarity-preserving hashes (SimHashes) identify near-duplicate files, enabling tracking across content transformations.
 * **Universal Application:**\
   ISCC facilitates consistent metadata management, rights tracking, and reliable content authentication, serving as a universal reference point for digital media, fostering interoperability and persistent linking of claims and content across creative industries.
-
-
 
 {% hint style="info" %}
 <img src="../.gitbook/assets/ISO-logo.png" alt="" data-size="line"> In 2024, ISO published the International Standard Content Code (ISCC) as international standard for digital content identification, ISO 24138:2024: [https://www.iso.org/standard/77899.html](https://www.iso.org/standard/77899.html)

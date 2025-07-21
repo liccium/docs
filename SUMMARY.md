@@ -11,7 +11,7 @@
 
 * [ISCC Content Fingerprinting](technology/iscc-content-fingerprinting.md)
 * [Verifiable Creator Credentials](technology/verifiable-creator-credentials.md)
-* [Soft Binding of Metadata](technology/soft-binding-of-metadata.md)
+* [Metadata Binding](technology/metadata-binding.md)
 * [Federated Content Registries](technology/federated-content-registries.md)
 
 ## Products

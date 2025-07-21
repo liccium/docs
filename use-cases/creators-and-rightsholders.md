@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Creators & Rightsholders
 
 Liccium enables individual creators and rightsholders – such as photographers, artists, writers, musicians, and filmmakers – to manage, sign and declare their digital rights, protecting intellectual property and ensuring proper attribution:

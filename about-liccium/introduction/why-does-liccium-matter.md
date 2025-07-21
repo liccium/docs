@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Why Does Liccium Matter?
 
 The increasing prevalence of misinformation, disinformation, fake news, and synthetic media poses a critical challenge for societies, businesses, and individuals alike. As digital content spreads instantly across platforms online – often created or altered by generative AI – it becomes increasingly difficult to verify authenticity, provenance, and rights ownership. This unchecked spread of manipulated information can deepen social divides, destabilise democratic institutions, and incite real-world harm, ranging from social unrest and hate crimes to threats against democratic stability.
