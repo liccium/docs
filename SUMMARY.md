@@ -11,6 +11,7 @@
 
 * [ISCC Content Fingerprinting](technology/iscc-content-fingerprinting.md)
 * [Verifiable Creator Credentials](technology/verifiable-creator-credentials.md)
+* [Trust Levels](technology/trust-levels.md)
 * [Metadata Binding](technology/metadata-binding.md)
 * [Federated Content Registries](technology/federated-content-registries.md)
 
@@ -28,6 +29,7 @@
 * [Liccium B2B Declaration Engine](liccium-b2b-declaration-engine.md)
 * [Metadata API](metadata-api.md)
 * [Registry Set-up](registry-set-up.md)
+* [Liccium Services and Pricing](liccium-services-and-pricing.md)
 
 ## Solutions
 
