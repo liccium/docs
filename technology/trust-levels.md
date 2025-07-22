@@ -34,7 +34,7 @@ This level applies to declarations signed by legal entities using a **Qualified 
 
 ## Why Trust Levels Matter
 
-Liccium’s infrastructure is designed to be open and permissionless – anyone can declare content. But that openness demands a way to **distinguish between claims made anonymously and those backed by real-world identities**.
+Liccium’s infrastructure is designed to be open and accessible – anyone should be able to declare content. But that openness demands a way to **distinguish between claims made anonymously and those backed by real-world identities**.
 
 By attaching credentials or certificates to declarations, creators and organisations can:
 
