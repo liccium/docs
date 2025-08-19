@@ -32,7 +32,7 @@ ISCC metadata schema definitions,\
 ISCC WEB – Minimal ISCC generator web application,\
 [https://github.com/iscc/iscc-web](https://github.com/iscc/iscc-web)
 
-## ISCC Github
+## ISCC Playground
 
 ISCC Playground on Hugging Face\
 [https://huggingface.co/iscc](https://huggingface.co/iscc)
