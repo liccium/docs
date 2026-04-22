@@ -10,13 +10,13 @@ Photographers and photojournalists currently use the IPTC standards to attach te
 
 <figure><img src="../../.gitbook/assets/IPTC 2@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
-## TDM·AI policy
+## AI Preferences (Opt-out)
 
 With the evolving landscape of AI, there's a pressing need for an application that allows content creators and rightsholders to declare their permissions regarding TDM.&#x20;
 
 The EU's DSM Directive on Copyright provides a default condition for TDM, but there's ambiguity when rightsholders want to opt-out or explicitly give permission. The TDM·AI protocol is motivated by the need to:
 
-1. Provide clarity and ease for rightsholders to declare their TDM permissions.
+1. Provide clarity and ease for rightsholders to declare their TDM preferences (reservations or permissions).
 2. Offer a decentralised, immutable, and verifiable system for these declarations.
 3. Ensure that AI providers and other stakeholders can easily understand and respect these declarations.
 
@@ -25,16 +25,6 @@ Liccium offers a protocol to facilitate machine-readable opt-out declarations fo
 <figure><img src="../../.gitbook/assets/tdmai 2@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
 The declaration binds a machine-readable declaration to the content by the rightsholder limiting commercial TDM usage.
-
-{% code overflow="wrap" %}
-```json
-{
-"TDMAI": false,
-"TDMAI_summary": "Content must not be used for training generative AI.",
-"TDMAI_policy": "Automated analysis of the work to extract information from it, especially about patterns, trends, and correlations for the purpose of training models and applications of generative AI, is reserved. Text and Data Mining (TDM) is permitted for general purpose AI systems that do not generate synthetic audio, image, video, or text content and for scientific research purposes or for temporary acts of reproduction as provided for in Article 5(1) of Directive 2001/29/EC."
-}
-```
-{% endcode %}
 
 For more information, please visit the TDM·AI homepage:  [https://tdmai.org/](https://tdmai.org/)
 
@@ -52,8 +42,16 @@ That’s why Liccium not only includes C2PA metadata inside the file but additio
 
 <figure><img src="../../.gitbook/assets/c2pa@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
-For more information, see section on [Soft-Binding](../../technology/metadata-binding.md).
+## FAIR AI Attribution (FAIA)
 
-{% content-ref url="../../technology/metadata-binding.md" %}
-[metadata-binding.md](../../technology/metadata-binding.md)
-{% endcontent-ref %}
+With generative AI increasingly shaping the production of text, images, audio, and video, creators, publishers, and researchers need a consistent way to indicate whether and how AI has contributed to their content. Without it, readers cannot tell human work from machine output, regulators cannot enforce disclosure obligations, and downstream users cannot assess provenance or reproducibility.
+
+The FAIR AI Attribution (FAIA) framework is motivated by the need to:
+
+1. Enable transparent documentation of AI involvement in content creation.
+2. Support compliance with emerging regulatory frameworks, such as Article 50 of the EU AI Act.
+3. Strengthen provenance, reproducibility, and trust in digital media and publishing ecosystems.
+
+Each declaration carries one of three flags – HCC (Human-Created Content), AAC (AI-Assisted Creation), or AIG (AI-Generated) – optionally qualified with an activity code that describes the type of contribution plus the information about which system and version was used.
+
+<figure><img src="../../.gitbook/assets/CleanShot 2026-04-22 at 08.54.24@2x.png" alt="" width="563"><figcaption></figcaption></figure>

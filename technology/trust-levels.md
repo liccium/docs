@@ -30,7 +30,7 @@ At this level, Verifiable Credentials are issued by **independent trust services
 
 _A legal entity signs declarations using a Qualified eSeal._
 
-This level applies to declarations signed by legal entities using a **Qualified Certificate for Electronic Seal (QCert)**, issued by a **Qualified Trust Service Provider (QTSP)** in compliance with **eIDAS regulation**. These X.509 certificates are legally binding and confirm the identity of a registered company, public institution, or authorised representative. This trust level is appropriate for institutions publishing declarations with full legal certainty.
+This level applies to declarations signed by legal entities using **Qualified or Advanced Certificates for Electronic Seal**, issued by a **Qualified Trust Service Provider (QTSP)** in compliance with **eIDAS regulation**. These X.509 certificates are legally binding and confirm the identity of a registered company, public institution, or authorised representative. This trust level is appropriate for institutions publishing declarations with full legal certainty.
 
 ## Why Trust Levels Matter
 

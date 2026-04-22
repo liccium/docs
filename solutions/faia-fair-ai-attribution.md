@@ -8,12 +8,10 @@ As AI tools become more common in writing, publishing, and media production, tra
 
 The framework is implemented as a **Liccium plugin**, allowing users to flag AI involvement directly within Liccium's declaration and signing interface. These flags are machine-readable, interoperable, and persistently linked to the content.
 
-{% embed url="https://youtu.be/s1mOJFHeCEM" %}
-Video Pitch
-{% endembed %}
-
-This short video introduces the FAIA initiative. It highlights the problem of AI opacity, emerging regulation like the EU AI Act, and a practical solution for certifying content with verifiable AI involvement.
-
-## The FAIA homepage
+## The FAIA Homepage and Explorer
 
 More information you will find on: [https://faia.liccium.com](https://faia.liccium.com/)
+
+The FAIA Registry Exlorer:&#x20;
+
+{% embed url="https://faia.io" %}

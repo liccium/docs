@@ -1,10 +1,10 @@
-# TDM·AI 𐂂 – Asset-Based Opt-Out
+# TDM·AI 𐂂 – Registry-Based Opt-Out Declarations
 
-## Making an asset-baset opt-out declaration
+## Making a registry-baset opt-out declaration
 
 TDM·AI is a protocol that lets creators and rightsholders bind machine-readable opt-out declarations for text and data mining (TDM) directly to their digital content. It is specifically designed to effectively exclude content from unauthorised data sets used to train models and applications of generative AI, making use of the benefits of the International Standard Content Code (ISCC) and[ ](https://docs.creatorcredentials.com/)Creator Credentials.
 
-<figure><img src="../.gitbook/assets/tdmai-deer.png" alt="" width="375"><figcaption><p>Deer AI: Please remove our content!</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/tdmai-deer.png" alt="" width="375"><figcaption><p>Deer AI: Please do not use our content!</p></figcaption></figure>
 
 ### Motivation
 
@@ -45,21 +45,6 @@ Creator Credentials are cryptographically verifiable credentials based on W3C re
 TDM·AI proposes a "soft-binding" method, associating rightsholder preferences with content-derived identifiers like ISCC codes. This approach ensures that preferences remain linked to the content even if metadata is stripped or the content is modified.
 
 ## Protocol Specification
-
-The TDM·AI protocol defines machine-readable declarations for rightsholders to specify their preferences regarding TDM for AI training purposes. These declarations can either prohibit or permit the use of content for training generative AI models.
-
-### **Example of an Opt-out Declaration:**
-
-{% code overflow="wrap" %}
-```json
-{
-  "iscc": "ISCC:KEC7VSV5QH7FTV7N5YVD5UMF4TUKFFGDGCOI4UDFKE4FNPW6C3L7J2Y",
-  "TDMAI": false,
-  "TDMAI_summary": "Content must not be used for training generative AI.",
-  "TDMAI_policy": "Automated analysis of the work to extract information from it, especially about patterns, trends, and correlations for the purpose of training models and applications of generative AI, is reserved. Text and Data Mining (TDM) is permitted for general-purpose AI systems that do not generate synthetic audio, image, video, or text content and for scientific research purposes or for temporary acts of reproduction as provided for in Article 5(1) of Directive 2001/29/EC."
-}
-```
-{% endcode %}
 
 For more detailed information, visit the [TDM·AI documentation](https://docs.tdmai.org/).
 

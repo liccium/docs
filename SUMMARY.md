@@ -35,7 +35,7 @@
 
 * [FAIA – Fair AI Attribution](solutions/faia-fair-ai-attribution.md)
 * [Opt-Out Registry](solutions/opt-out-registry.md)
-* [TDM·AI 𐂂 – Asset-Based Opt-Out](solutions/tdm-ai-asset-based-opt-out.md)
+* [TDM·AI 𐂂 – Registry-Based Opt-Out Declarations](solutions/tdm-ai-registry-based-opt-out-declarations.md)
 
 ## Use Cases
 

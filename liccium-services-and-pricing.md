@@ -49,5 +49,6 @@ It is important to note that:
 
 * **ISCC** (ISO 24138) is an open and free-to-use standard for digital content identification.
 * **TDM·AI** is a non-proprietary protocol for declaring usage preferences, developed under open governance.
+* **FAIA** is an open vocabulary for the disclosure of the use of AI in content creation.
 
 Liccium charges **no licensing fees** for use of these protocols. Our commercial offerings cover infrastructure, hosting, support, integrations, and registry operations.

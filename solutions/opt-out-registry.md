@@ -6,49 +6,9 @@ The Liccium Opt-Out Registry is the first system enabling machine-readable opt-o
 
 Built on a decentralized hash table (DHT) architecture, the Liccium Opt-Out Registry provides a tamper-proof, cryptographically verifiable, and federated system for managing opt-out declarations. The system enables automated discovery and access to machine-readable rights reservations, ensuring that AI developers, platforms, and regulators can systematically recognize opt-out signals and exclude the content from training datasets.
 
-## **Structure**
+## **The Opt-out Directory**&#x20;
 
-The registry operates as a distributed key-value store where each entry represents key components of a machine-readable opt-out declaration. These declarations are digitally signed, cryptographically verifiable, ensuring authenticity and immutability of the records.
-
-#### **Keys**
-
-Each entry in the DHT contains the following key components:
-
-* **Declaration ID** – A unique identifier for each declaration.
-* **Metadata Hash (CID)** – A content identifier (CID) representing the cryptographic hash of the metadata.
-* **ISCC Code** – A standardised International Standard Content Code (ISCC), serving as a fingerprint for the digital content, which allows to reference the actual media file.
-* **Timestamp (UNIX)** – A UNIX timestamp marking when the entry was created or modified.
-
-#### **Values**
-
-Each key in the DHT maps to a value that includes:
-
-* **Opt-out Expression** – A machine-readable declaration indicating the ISCC-associated content is opted out of specific uses, such as AI training.
-* **Signature of the Timestamp** – A cryptographic signature ensuring the validity of the timestamp.
-* **Signature of the Verifiable Credential (VC)** – A cryptographic proof linking the declaration to a legitimate rightsholder.
-
-### **Example Entry**
-
-Below is an example of an opt-out entry stored in the registry:
-
-```
-arduinoCopyEditsyxsatxsuefkiirzkxgv-dj7WgARAtoiA4JdeVKxiujtPBafDRzryocZ1e4dTeN826vWc-KEC37U62XOOZFLT5QYHXSFLOFAYX7QGRKQ2RDUZ4OC7CWVLPW74D42Y:
-{
-  "optout": {
-    "TDMAI": false
-  },
-  "timestamp_signature": {
-    "signature": "Timestamp_Token"
-  },
-  "vc_signature": {
-    "signature": "VC_Token"
-  }
-}
-```
-
-{% hint style="info" %}
-The first prototype of the Liccium Opt-out Registry can be found on: [https://optout.liccium.eu/](https://optout.liccium.eu/)
-{% endhint %}
+{% embed url="https://opt-out.directory" %}
 
 ## **Integration for AI Model Providers**
 

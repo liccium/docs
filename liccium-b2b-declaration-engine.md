@@ -10,8 +10,6 @@ The engine supports opt-out declarations for AI training, AI content licensing, 
 
 All functionalities can be fully managed via API, enabling automation and streamlined integration into existing enterprise systems.
 
-<figure><img src=".gitbook/assets/Integration.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
 The **Liccium Declaration Engine** enables media organisations and rightsholders to generate, manage, and publish their content declarations using **ISCC codes** and cryptographic signatures. The process follows three key steps:
 
 **Step 1: ISCC Code Generation**
@@ -27,3 +25,15 @@ The **Liccium Declaration Engine** enables media organisations and rightsholders
 
 * Media organisations digitally sign the metadata using their cryptographic keys.
 * The signed declaration is submitted via the **Liccium Declaration API**, ensuring authenticity and enforceability.
+
+### Liccium API and Developer Platform <a href="#welcome-to-the-liccium-api-and-developer-platform" id="welcome-to-the-liccium-api-and-developer-platform"></a>
+
+The Liccium API and Developer Platform provides a full technical guide for integrating Liccium's APIs into your software or services. It includes:
+
+* JSON examples for every endpoint
+* Specification of supported metadata schemas
+* Plugin integration and validation formats
+* Federated registry structures and publishing logic
+* Reference implementations
+
+{% embed url="https://dev.liccium.com" %}

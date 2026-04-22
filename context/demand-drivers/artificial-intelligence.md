@@ -10,7 +10,7 @@ The current European legislation (→ [Article 4, EU DSM Directive on Copyright]
 
 #### Re/ Input (Upstream)
 
-According to the [EU AI-Act](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236\_EN.pdf), providers of AI system and creators of synthetic media are required to provide "sufficiently detailed summary" of all copyrighted works utilised for the training of their models (Article 52 1. d). To comply with this regulatory requirement, providers of AI system need to identify, list and transparently declare all assets before the content is ingested into their systems and make sure that no opt-out policy prohibits its use.
+According to the [EU AI-Act](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.pdf), providers of AI system and creators of synthetic media are required to provide "sufficiently detailed summary" of all copyrighted works utilised for the training of their models (Article 52 1. d). To comply with this regulatory requirement, providers of AI system need to identify, list and transparently declare all assets before the content is ingested into their systems and make sure that no opt-out policy prohibits its use.
 
 #### Output (Downstream)
 
@@ -22,6 +22,5 @@ Providers of AI systems must identify and publicly declare AI-generated content 
 
 
 
-\
-
+<br>
 
