@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Metadata API
 
 Liccium’s Metadata API allows third-party platforms, digital services, and enterprises to directly query and integrate rights declaration metadata based on ISCC fingerprints. This API provides instant, scalable access to authoritative rights information stored in federated registries, enabling:

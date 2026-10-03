@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Federated Content Registries
 
 Creators and rights-holders can generate ISCC codes from their content and publish them to open, federated verifiable content registries – an infrastructure that the Liccium platform implements for this use-case. With such a declaration, they bind product information, rights and licences, provenance and other metadata to the unique identifier of the media asset. Rather than embedding information inside the file itself (via watermarking or steganography), the metadata is externalised: it is hashed, published and stored as a side-car associated with the ISCC code derived from the content.

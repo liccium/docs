@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Journalists, Fact-Checkers & News Organizations
 
 Liccium supports journalists, media organizations, and fact-checkers by providing tools for rapid, reliable verification of digital content, significantly enhancing transparency, accuracy, and public trust.

@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Metadata Binding
 
 Liccium’s approach to metadata binding introduces a reliable and tamper-evident way to associate rights and metadata with digital content – without embedding any information into the file itself. Instead of relying on traditional in-file metadata or watermarking (which can be stripped, altered, or lost when metadata is removed), Liccium uses externally stored declarations – sometimes referred to as 'sidecar files' – that are cryptographically linked to the content via the International Standard Content Code (ISCC).

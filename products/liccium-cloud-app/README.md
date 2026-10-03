@@ -1,3 +1,27 @@
+---
+hidden: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Liccium Cloud app
 
 Liccium is software for digital content authentication and rights management, designed for individual creators (Liccium Cloud Application) and media organisations. It enables users to digitally sign and declare ownership, rights, and metadata for their content while ensuring that these claims remain verifiable – even if metadata is removed, the file is modified, or the content is shared beyond the creator’s or rightsholder’s control.
