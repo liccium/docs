@@ -25,6 +25,10 @@ Files that are stored only in the cloud – for example in iCloud Drive or Googl
 | Audio  | MP3, M4A, AAC, FLAC, WAV, OGG, Opus, WMA, AIFF, ALAC |
 | Video  | MP4, MOV, MKV, AVI, WebM, FLV, WMV, M4V, 3GP, OGV    |
 
+To learn more about ISCC codes, visit [https://iscc.io](https://iscc.io).
+
+{% embed url="https://iscc.io" %}
+
 ## Existing metadata
 
 When you add images, Liccium reads the IPTC fields already stored in them – creator, credit line, copyright notice, keywords and licence information. Photographers who maintain this information in Lightroom or other tools do not have to enter it twice.

@@ -33,7 +33,15 @@
 
 ***
 
-* [Liccium B2B Services](liccium-b2b-services.md)
+* [Liccium B2B Services](liccium-b2b-services/README.md)
+  * [ISCC generation](liccium-b2b-services/iscc-generation.md)
+  * [Declaration metadata](liccium-b2b-services/declaration-metadata.md)
+  * [Declaration API](liccium-b2b-services/declaration-api.md)
+  * [Certificates and credentials](liccium-b2b-services/certificates-and-credentials.md)
+  * [Managing declarations](liccium-b2b-services/managing-declarations.md)
+  * [Access and resolution](liccium-b2b-services/access-and-resolution.md)
+  * [Onboarding and support](liccium-b2b-services/onboarding-and-support.md)
+  * [Pricing](liccium-b2b-services/pricing.md)
 * [Liccium Services and Pricing](liccium-services-and-pricing.md)
 
 ## Solutions

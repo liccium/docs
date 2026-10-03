@@ -24,6 +24,10 @@ Because the declaration refers to the content fingerprint, not to a file name, a
 
 Point Liccium at a folder and it generates an ISCC for every image, text document, audio file and video it finds. Pinned folders are re-indexed automatically when files are added, moved, renamed or changed. You can also add single files, or add a web page by its URL.
 
+To learn more about ISCC codes, visit [https://iscc.io](https://iscc.io).
+
+{% embed url="https://iscc.io" %}
+
 ### Describe your work with plugins
 
 Plugins decide which kinds of information you can attach to a declaration: a Creative Commons licence, a reservation of text and data mining for AI (TDMrep), a disclosure of AI involvement (FAIA), photo industry metadata fields (IPTC), bibliographic information (Text), release information (Music) and Content Credentials (C2PA). You set defaults once and adjust them for individual files where needed.
