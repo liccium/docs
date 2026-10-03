@@ -80,7 +80,7 @@
 * [Liccium](references/liccium.md)
 * [ISCC](references/iscc.md)
 * [Standards](references/standards.md)
-* [Regulation](references/regulation.md)
+* [Studies and Regulation](references/studies-and-regulation.md)
 
 ## Legal information
 
