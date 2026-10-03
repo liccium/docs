@@ -17,7 +17,8 @@
 
 ## Products
 
-* [Liccium Desktop app](products/liccium-desktop-app.md)
+* [Liccium Desktop app](products/liccium-desktop-app/README.md)
+  * [Page 1](products/liccium-desktop-app/page-1.md)
 * [Liccium Cloud app](products/liccium-cloud-app/README.md)
   * [Generating ISCC Codes](products/liccium-cloud-app/generating-iscc-codes.md)
   * [Basic metadata](products/liccium-cloud-app/basic-metadata.md)
