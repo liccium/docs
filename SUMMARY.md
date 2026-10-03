@@ -42,7 +42,6 @@
   * [Access and resolution](liccium-b2b-services/access-and-resolution.md)
   * [Onboarding and support](liccium-b2b-services/onboarding-and-support.md)
   * [Pricing](liccium-b2b-services/pricing.md)
-* [Liccium Services and Pricing](liccium-services-and-pricing.md)
 
 ## Solutions
 
