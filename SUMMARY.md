@@ -18,7 +18,12 @@
 ## Products
 
 * [Liccium Desktop app](products/liccium-desktop-app/README.md)
-  * [Page 1](products/liccium-desktop-app/page-1.md)
+  * [Adding your content](products/liccium-desktop-app/adding-your-content.md)
+  * [Plugins](products/liccium-desktop-app/plugins.md)
+  * [Declaring your work](products/liccium-desktop-app/declaring-your-work.md)
+  * [Credentials](products/liccium-desktop-app/credentials.md)
+  * [Search and duplicates](products/liccium-desktop-app/search-and-duplicates.md)
+  * [Privacy and your data](products/liccium-desktop-app/privacy-and-your-data.md)
 * [Liccium Cloud app](products/liccium-cloud-app/README.md)
   * [Generating ISCC Codes](products/liccium-cloud-app/generating-iscc-codes.md)
   * [Basic metadata](products/liccium-cloud-app/basic-metadata.md)
