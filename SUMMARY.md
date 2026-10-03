@@ -33,9 +33,7 @@
 
 ***
 
-* [Liccium B2B Declaration Engine](liccium-b2b-declaration-engine.md)
-* [Metadata API](metadata-api.md)
-* [Registry Set-up](registry-set-up.md)
+* [Liccium B2B Services](liccium-b2b-services.md)
 * [Liccium Services and Pricing](liccium-services-and-pricing.md)
 
 ## Solutions
