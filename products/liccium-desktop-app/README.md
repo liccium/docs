@@ -4,6 +4,8 @@ Liccium Desktop is an application for individual creators and rightsholders that
 
 Liccium Desktop does this on your own computer. Your files are not uploaded to a cloud service – Liccium reads them where they already are, generates the ISCC codes locally and publishes only the signed declaration you choose to make.
 
+<figure><img src="../../.gitbook/assets/Liccium desktop app.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Liccium Desktop replaces the Liccium Cloud app, which is no longer being developed. Liccium Desktop is in preparation and not yet available for download.
 {% endhint %}

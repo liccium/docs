@@ -24,24 +24,21 @@
   * [Credentials](products/liccium-desktop-app/credentials.md)
   * [Search and duplicates](products/liccium-desktop-app/search-and-duplicates.md)
   * [Privacy and your data](products/liccium-desktop-app/privacy-and-your-data.md)
+* [Liccium B2B Services](products/liccium-b2b-services/README.md)
+  * [ISCC generation](products/liccium-b2b-services/iscc-generation.md)
+  * [Declaration metadata](products/liccium-b2b-services/declaration-metadata.md)
+  * [Declaration API](products/liccium-b2b-services/declaration-api.md)
+  * [Certificates and credentials](products/liccium-b2b-services/certificates-and-credentials.md)
+  * [Managing declarations](products/liccium-b2b-services/managing-declarations.md)
+  * [Access and resolution](products/liccium-b2b-services/access-and-resolution.md)
+  * [Onboarding and support](products/liccium-b2b-services/onboarding-and-support.md)
+  * [Pricing](products/liccium-b2b-services/pricing.md)
 * [Liccium Cloud app](products/liccium-cloud-app/README.md)
   * [Generating ISCC Codes](products/liccium-cloud-app/generating-iscc-codes.md)
   * [Basic metadata](products/liccium-cloud-app/basic-metadata.md)
   * [Liccium plugins](products/liccium-cloud-app/liccium-plugins.md)
   * [Creator credentials](products/liccium-cloud-app/creator-credentials.md)
   * [Liccium browser plugin](products/liccium-cloud-app/liccium-browser-plugin.md)
-
-***
-
-* [Liccium B2B Services](liccium-b2b-services/README.md)
-  * [ISCC generation](liccium-b2b-services/iscc-generation.md)
-  * [Declaration metadata](liccium-b2b-services/declaration-metadata.md)
-  * [Declaration API](liccium-b2b-services/declaration-api.md)
-  * [Certificates and credentials](liccium-b2b-services/certificates-and-credentials.md)
-  * [Managing declarations](liccium-b2b-services/managing-declarations.md)
-  * [Access and resolution](liccium-b2b-services/access-and-resolution.md)
-  * [Onboarding and support](liccium-b2b-services/onboarding-and-support.md)
-  * [Pricing](liccium-b2b-services/pricing.md)
 
 ## Solutions
 
