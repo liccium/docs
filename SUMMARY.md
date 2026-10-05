@@ -3,17 +3,6 @@
 ## About Liccium
 
 * [Introduction](README.md)
-  * [What is Liccium?](about-liccium/introduction/what-is-liccium.md)
-  * [Who is Liccium for?](about-liccium/introduction/who-is-liccium-for.md)
-  * [Why Does Liccium Matter?](about-liccium/introduction/why-does-liccium-matter.md)
-
-## Technology
-
-* [ISCC Content Fingerprinting](technology/iscc-content-fingerprinting.md)
-* [Verifiable Creator Credentials](technology/verifiable-creator-credentials.md)
-* [Trust Levels](technology/trust-levels.md)
-* [Metadata Binding](technology/metadata-binding.md)
-* [Federated Content Registries](technology/federated-content-registries.md)
 
 ## Products
 
@@ -46,15 +35,20 @@
 * [Opt-Out Registry](solutions/opt-out-registry.md)
 * [TDM·AI 𐂂 – Registry-Based Opt-Out Declarations](solutions/tdm-ai-registry-based-opt-out-declarations.md)
 
+## Technology
+
+* [ISCC Content Fingerprinting](technology/iscc-content-fingerprinting.md)
+* [Verifiable Creator Credentials](technology/verifiable-creator-credentials.md)
+* [Trust Levels](technology/trust-levels.md)
+* [Metadata Binding](technology/metadata-binding.md)
+* [Federated Content Registries](technology/federated-content-registries.md)
+
 ## Use Cases
 
 * [Creators & Rightsholders](use-cases/creators-and-rightsholders.md)
 * [AI Model Providers & Digital Platforms](use-cases/ai-model-providers-and-digital-platforms.md)
-
-***
-
-* [Journalists, Fact-Checkers & News Organizations](journalists-fact-checkers-and-news-organizations.md)
-* [Institutions & Regulatory Bodies](institutions-and-regulatory-bodies.md)
+* [Journalists, Fact-Checkers & News Organizations](use-cases/journalists-fact-checkers-and-news-organizations.md)
+* [Institutions & Regulatory Bodies](use-cases/institutions-and-regulatory-bodies.md)
 
 ## Context
 
