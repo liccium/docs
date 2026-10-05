@@ -6,13 +6,6 @@
 
 ## Products
 
-* [Liccium Desktop app](products/liccium-desktop-app/README.md)
-  * [Adding your content](products/liccium-desktop-app/adding-your-content.md)
-  * [Plugins](products/liccium-desktop-app/plugins.md)
-  * [Declaring your work](products/liccium-desktop-app/declaring-your-work.md)
-  * [Credentials](products/liccium-desktop-app/credentials.md)
-  * [Search and duplicates](products/liccium-desktop-app/search-and-duplicates.md)
-  * [Privacy and your data](products/liccium-desktop-app/privacy-and-your-data.md)
 * [Liccium B2B Services](products/liccium-b2b-services/README.md)
   * [ISCC generation](products/liccium-b2b-services/iscc-generation.md)
   * [Declaration metadata](products/liccium-b2b-services/declaration-metadata.md)
@@ -22,6 +15,13 @@
   * [Access and resolution](products/liccium-b2b-services/access-and-resolution.md)
   * [Onboarding and support](products/liccium-b2b-services/onboarding-and-support.md)
   * [Pricing](products/liccium-b2b-services/pricing.md)
+* [Liccium Desktop app](products/liccium-desktop-app/README.md)
+  * [Adding your content](products/liccium-desktop-app/adding-your-content.md)
+  * [Plugins](products/liccium-desktop-app/plugins.md)
+  * [Declaring your work](products/liccium-desktop-app/declaring-your-work.md)
+  * [Credentials](products/liccium-desktop-app/credentials.md)
+  * [Search and duplicates](products/liccium-desktop-app/search-and-duplicates.md)
+  * [Privacy and your data](products/liccium-desktop-app/privacy-and-your-data.md)
 * [Liccium Cloud app](products/liccium-cloud-app/README.md)
   * [Generating ISCC Codes](products/liccium-cloud-app/generating-iscc-codes.md)
   * [Basic metadata](products/liccium-cloud-app/basic-metadata.md)
@@ -31,9 +31,8 @@
 
 ## Solutions
 
+* [Opt-out Registry](solutions/opt-out-registry.md)
 * [FAIA – Fair AI Attribution](solutions/faia-fair-ai-attribution.md)
-* [Opt-Out Registry](solutions/opt-out-registry.md)
-* [TDM·AI 𐂂 – Registry-Based Opt-Out Declarations](solutions/tdm-ai-registry-based-opt-out-declarations.md)
 
 ## Technology
 

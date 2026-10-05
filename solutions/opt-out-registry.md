@@ -21,37 +21,83 @@ layout:
     visible: true
 ---
 
-# Opt-Out Registry
+# Opt-out Registry
 
-## **Overview**
+Liccium lets creators and rightsholders opt their works out of AI training. They publish a machine-readable statement that they reserve their rights – meaning the work may not be used for text and data mining (TDM), including AI training, without their permission. These opt-outs are stored in the Opt-Out Registry, where AI developers, web crawlers and platforms can find them and act on them.
 
-The Liccium Opt-Out Registry is the first system enabling machine-readable opt-out declarations, allowing individual creators and rightsholders to formally express and make their preferences publicly available regarding the use of their content for AI training. Designed in compliance with the DSM Directive and the AI Act, the registry ensures that rightsholders can publicly declare and assert their reservations, preventing unauthorized AI model training and generative AI applications.
+Each reservation is published as a signed, timestamped declaration that refers to the content fingerprint (ISO 24138) of the work. Because anyone holding a copy of the work can regenerate the fingerprint, the reservation can be found wherever the work appears – independent of the website it was found on or the metadata it still carries.
 
-Built on a decentralized hash table (DHT) architecture, the Liccium Opt-Out Registry provides a tamper-proof, cryptographically verifiable, and federated system for managing opt-out declarations. The system enables automated discovery and access to machine-readable rights reservations, ensuring that AI developers, platforms, and regulators can systematically recognize opt-out signals and exclude the content from training datasets.
+{% embed url="https://optout.directory" %}
 
-## **The Opt-out Directory**&#x20;
+## The legal context
 
-{% embed url="https://opt-out.directory" %}
+Under EU copyright law, anyone may use lawfully accessible content for text and data mining – including AI training – without asking permission. This is an exception to copyright, set out in Article 4 of the Directive on Copyright in the Digital Single Market (Directive (EU) 2019/790).
 
-## **Integration for AI Model Providers**
+Creators and rightsholders have the right to opt out of this exception. To do so, they must reserve their rights explicitly – and for content published online, in a machine-readable form. If they do not opt out, AI developers may use their works for training. The EU AI Act requires providers of general-purpose AI models to put in place a policy to identify and comply with such reservations
 
-The Opt-Out Registry is designed for seamless and effortless integration by AI model providers, web crawlers, and media verification platforms. Setting up a node is incredibly simple for AI model providers, requiring minimal configuration to gain real-time access to machine-readable opt-out declarations. This ensures that rightsholders’ reservations regarding AI training can be automatically acknowledged, allowing AI developers to comply with copyright regulations and AI governance laws without complex infrastructure adjustments.
+## Why existing methods fall short
 
-By operating a node, AI developers gain direct and automated access to opt-out declarations, allowing them to systematically match ISCC codes from their datasets with those declared by rightsholders. This facilitates compliance with copyright and AI transparency obligations while streamlining dataset curation processes.
+Rights reservations are currently expressed in two ways, and both have limits in practice:
 
-### **How It Works**
+* Domain-level signals – such as robots.txt or the W3C TDM Reservation Protocol (TDMRep) on a website – express the policy of the website operator. They cannot express the preferences of each individual rightsholder whose works appear on that website, and they no longer apply once a work is copied to another domain.
+* Metadata embedded in the file can be removed in seconds – deliberately, or as a side effect of conversion, compression or redistribution. When the metadata is gone, so is the reservation.
 
-1. Setting up a registry node – AI model providers deploy a node within the Liccium federated registry network, granting them real-time access to opt-out declarations with minimal setup effort.
-2. Generating ISCC codes from training data – As part of their dataset processing, AI developers create ISCC fingerprints for media assets intended for training. This allows for a content-derived, format-independent identification of the data.
-3. Performing a vector search – AI model providers perform a vector-based similarity search to match ISCC codes from the training data with those registered by rightsholders. This ensures that near-duplicate content and variations of the same work are identified, even if the media file has been slightly modified.
-4. Matching against the opt-out registry – AI model providers can automatically query the Liccium Opt-Out Registry to compare ISCC codes from the training data with those registered by rightsholders.
-5. Resolving rights reservations – If a match is found, AI model providers can resolve the opt-out declaration, verifying its authenticity, timestamp, and cryptographic signatures.
-6. Enforcing compliance – AI providers exclude matching content from their training datasets as per the declared opt-out preferences, ensuring legal and ethical compliance with AI transparency and copyright laws.
+Reservations expressed in trade metadata, for example in ONIX records exchanged between publishers and retailers, do not reach AI developers at all.
 
-### **Regulatory Compliance and Benefits**
+## Registry-based reservations – the TDM·AI protocol
 
-By integrating the Liccium Registry Node, AI model providers achieve full regulatory compliance with EU copyright and AI laws while reducing administrative overhead. The system provides direct, machine-readable access to opt-out declarations, removing reliance on manual rights management.
+The Opt-Out Registry adds a layer that is independent of where a work is hosted and of the metadata embedded in it. It is based on TDM·AI, an open protocol for registry-based opt-out declarations. Under TDM·AI, a reservation is connected to the work through its content fingerprint (ISO 24138) – a method known as soft binding – and stored in federated registries. It remains discoverable when the work has been copied to another domain, converted to another format or stripped of its metadata, and it can be made for works that have already been distributed.
 
-The ability to perform a vector-based search enhances the effectiveness of compliance by identifying near-duplicate content, even when format changes or minor modifications have been applied. This ensures that rightsholders’ opt-out preferences are enforced comprehensively, reducing the risk of unauthorized content use.
+Each reservation under TDM·AI is:
 
-This plug-and-play integration empowers AI developers to maintain regulatory compliance while streamlining the content exclusion process, ultimately fostering a more ethical and legally sound approach to AI training. By adopting the Liccium decentralised registry infrastructure, AI model providers contribute to a transparent and responsible AI ecosystem while safeguarding compliance and risk mitigation in their operations.
+* connected to the content itself, not to a file, a location or embedded metadata;
+* machine-readable, using the TDM·AI vocabulary;
+* signed by the declarer, and supported by certificates or Verifiable Credentials that identify who made the reservation;
+* timestamped by a trusted Time Stamping Authority, recording when it was made;
+* applicable to all media types – text, images, audio and video;
+* resolvable by anyone, through the registries and APIs;
+* based on international standards – ISCC (ISO 24138) for content identification, and W3C Verifiable Credentials and Decentralized Identifiers for declarer identity.
+
+A reservation can be updated or withdrawn by the declarer at any time. The history of earlier declarations remains on record.
+
+The protocol specification is published on [tdmai.org](https://tdmai.org).
+
+{% embed url="https://tdmai.org" %}
+
+## Making a reservation
+
+| Who                                                  | How                                                                                                  |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Individual creators and rightsholders                | With the TDMrep plugin in the Liccium Desktop app – for a single work, a folder or an entire library |
+| Publishers, agencies, labels and other organisations | Through the Declaration API of Liccium B2B Services – for entire catalogues, from existing systems   |
+
+A declaration states whether the work is opted out, and can link to a policy page with licensing terms – for example where AI developers can request a licence. The same declaration can also carry a FAIA disclosure of AI involvement in the work.&#x20;
+
+## Finding and respecting reservations
+
+AI developers, web crawlers and platforms can check works against the registry before using them:
+
+1. Generate ISCC codes for the works in a data set, as part of data collection or processing.
+2. Search the registry by ISCC. Because ISCC codes are similarity-preserving, the search also finds reservations for modified versions of a work – cropped, re-encoded or converted.
+3. Resolve the declaration and check its signature, timestamp and declarer.
+4. Act on the reservation – exclude the work from training, or obtain a licence under the terms the rightsholder has linked to.
+
+## Benefits for AI developers
+
+Under the EU AI Act, providers of general-purpose AI models must have a policy to identify and comply with opt-outs from AI training. The Opt-Out Registry gives them a machine-readable source for these opt-outs that does not depend on where a work was found or on the metadata it carries. It replaces manual checks of each rightsholder's preferences.
+
+Because ISCC codes are similarity-preserving, a search also finds opt-outs for modified versions of a work – cropped, re-encoded or converted. Each opt-out is signed and timestamped, so a developer can document which works were checked, which opt-outs were found, and when the opt-out was made. That record can support their copyright compliance policy and their reporting obligations.
+
+## What a reservation does
+
+An opt-out states the rightsholder's reservation in a form that can be found and verified. It does not technically prevent the use of a work, and it does not remove works from data sets that have already been collected. Its effect depends on AI developers and other parties checking the registry and respecting what it states – which the legal framework increasingly requires of them.
+
+## Accessing the registry
+
+The registry can be accessed in three ways, depending on the volume of content to be checked.
+
+| Access                      | Description                                                                                                                                                                                                                                       |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Optout.directory            | The public interface to the registry. Anyone can search opt-outs by ISCC or declaration ID, view the associated metadata and check the signatures.                                                                                                |
+| Search API and Metadata API | For automated checks. The Search API finds opt-outs by ISCC, including for modified versions of a work; the Metadata API retrieves the full, signed declaration. Documented on the [Liccium API and Developer Platform](https://dev.liccium.com). |
+| Reader node                 | A registry node that runs on your own infrastructure and synchronises all declarations, for checking large data sets locally – without sending queries to an external service.                                                                    |
